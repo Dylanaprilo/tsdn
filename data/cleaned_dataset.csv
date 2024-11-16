@@ -1,0 +1,1762 @@
+id,Jenis Penyakit,Provinsi,Jenis - Kelamin,Jumlah Kasus,Populasi,Tanggal,medium
+1,Dengue,Jawa Barat,Female,12,17340743,11/27/2022,Gigitan Serangga
+2,Dengue,Jawa Barat,Male,14,17174034,10/3/2023,Gigitan Serangga
+3,Dengue,Jawa Barat,Female,4,17783924,9/18/2021,Gigitan Serangga
+4,Dengue,Jawa Barat,Female,1,17969405,12/8/2019,Gigitan Serangga
+5,Dengue,Jawa Barat,Female,6,18088355,12/4/2020,Gigitan Serangga
+6,Dengue,Jawa Barat,Male,5,17899282,10/8/2024,Gigitan Serangga
+7,Dengue,Jawa Barat,Female,4,18220429,10/20/2021,Gigitan Serangga
+8,Dengue,Jawa Barat,Male,5,18028441,10/23/2018,Gigitan Serangga
+9,Dengue,Jawa Barat,Female,4,18373955,11/14/2020,Gigitan Serangga
+10,Dengue,Jawa Barat,Male,6,18180620,12/11/2018,Gigitan Serangga
+11,Dengue,Jawa Barat,Female,5,18526603,12/21/2019,Gigitan Serangga
+12,Dengue,Jawa Barat,Male,3,18331667,10/12/2018,Gigitan Serangga
+13,Dengue,Jawa Barat,Female,15,18634031,10/8/2020,Gigitan Serangga
+14,Dengue,Jawa Barat,Male,16,18445222,12/2/2023,Gigitan Serangga
+15,Dengue,Jawa Barat,Female,40,18752748,9/30/2023,Gigitan Serangga
+16,Dengue,Jawa Barat,Male,37,18558691,11/19/2021,Gigitan Serangga
+17,Dengue,Jawa Barat,Female,23,18881056,12/24/2021,Gigitan Serangga
+18,Dengue,Jawa Barat,Male,18,18691131,9/29/2024,Gigitan Serangga
+19,Dengue,Jawa Barat,Female,42,19028077,10/23/2020,Gigitan Serangga
+20,Dengue,Jawa Barat,Male,45,18841496,9/19/2022,Gigitan Serangga
+21,Dengue,Jawa Barat,Female,54,19177344,10/19/2019,Gigitan Serangga
+22,Dengue,Jawa Barat,Male,71,18988773,11/30/2021,Gigitan Serangga
+23,Dengue,Jawa Barat,Female,63,19346905,9/21/2020,Gigitan Serangga
+24,Dengue,Jawa Barat,Male,63,19154588,9/6/2021,Gigitan Serangga
+25,Dengue,Jawa Barat,Male,2,719209,12/17/2021,Gigitan Serangga
+26,Dengue,Jawa Timur,Male,1,720721,11/25/2024,Gigitan Serangga
+27,Dengue,Bali,Female,1,746959,11/18/2018,Gigitan Serangga
+28,Dengue,Kalimantan Tengah,Female,2,746698,9/21/2021,Gigitan Serangga
+29,Dengue,Sulawesi Selatan,Female,2,784429,12/19/2022,Gigitan Serangga
+30,Dengue,Sulawesi Tenggara,Male,9,755231,10/23/2021,Gigitan Serangga
+31,Dengue,Gorontalo,Female,7,797654,12/26/2019,Gigitan Serangga
+32,Dengue,Sulawesi Barat,Male,11,766363,11/25/2024,Gigitan Serangga
+33,Dengue,DKI Jakarta,Female,1,16358,10/18/2021,Gigitan Serangga
+34,Dengue,Sulawesi Barat,Male,1,109868,10/8/2018,Gigitan Serangga
+35,Dengue,Maluku,Female,1,112637,9/13/2019,Gigitan Serangga
+36,Dengue,DI Yogyakarta,Male,1,492997,10/5/2023,Gigitan Serangga
+37,Dengue,Banten,Female,1,522750,9/19/2018,Gigitan Serangga
+38,Dengue,Kalimantan Tengah,Male,1,509624,12/15/2022,Gigitan Serangga
+39,Dengue,Sulawesi Tengah,Female,1,547638,12/27/2024,Gigitan Serangga
+40,Dengue,Sulawesi Selatan,Male,3,521520,11/11/2022,Gigitan Serangga
+41,Dengue,Sulawesi Tenggara,Female,1,554275,9/1/2023,Gigitan Serangga
+42,Dengue,Gorontalo,Male,2,527673,12/28/2019,Gigitan Serangga
+43,Dengue,Maluku,Male,3,534708,12/31/2019,Gigitan Serangga
+44,Dengue,Kalimantan Selatan,Male,1,461948,10/26/2018,Gigitan Serangga
+45,Dengue,Kalimantan Timur,Male,1,469484,11/7/2024,Gigitan Serangga
+46,Dengue,Kalimantan Utara,Female,1,474300,12/16/2019,Gigitan Serangga
+47,Dengue,Sulawesi Tengah,Female,3,478477,9/21/2024,Gigitan Serangga
+48,Dengue,Sulawesi Selatan,Male,1,483796,12/17/2024,Gigitan Serangga
+49,Dengue,Kalimantan Tengah,Female,1,86154,10/28/2024,Gigitan Serangga
+50,Dengue,Bengkulu,Male,1,428435,10/20/2020,Gigitan Serangga
+51,Dengue,Jawa Timur,Female,1,416808,10/9/2020,Gigitan Serangga
+52,Dengue,DI Yogyakarta,Male,1,448703,10/27/2019,Gigitan Serangga
+53,Dengue,Banten,Female,2,420256,10/24/2018,Gigitan Serangga
+54,Dengue,Bali,Male,1,452066,9/30/2023,Gigitan Serangga
+55,Dengue,Maluku Utara,Male,2,85315,11/5/2022,Gigitan Serangga
+56,Dengue,DKI Jakarta,Female,2,4880972,10/2/2023,Gigitan Serangga
+57,Dengue,DKI Jakarta,Male,3,4756384,10/25/2024,Gigitan Serangga
+58,Dengue,DKI Jakarta,Male,1,4798953,12/16/2023,Gigitan Serangga
+59,Dengue,DKI Jakarta,Male,1,4832160,10/13/2023,Gigitan Serangga
+60,Dengue,DKI Jakarta,Female,1,4971912,12/8/2020,Gigitan Serangga
+61,Dengue,DKI Jakarta,Male,2,4839224,11/29/2018,Gigitan Serangga
+62,Dengue,DKI Jakarta,Male,3,4827681,12/18/2021,Gigitan Serangga
+63,Dengue,DKI Jakarta,Female,1,4966464,12/12/2018,Gigitan Serangga
+64,Dengue,DKI Jakarta,Female,2,4969936,9/30/2018,Gigitan Serangga
+65,Dengue,DKI Jakarta,Male,1,4836848,11/18/2019,Gigitan Serangga
+66,Dengue,DKI Jakarta,Female,18,4982072,12/8/2024,Gigitan Serangga
+67,Dengue,DKI Jakarta,Male,14,4844727,12/19/2018,Gigitan Serangga
+68,Dengue,DKI Jakarta,Female,6,4999643,10/7/2019,Gigitan Serangga
+69,Dengue,DKI Jakarta,Male,6,4864351,12/19/2024,Gigitan Serangga
+70,Dengue,DKI Jakarta,Female,12,5040999,10/13/2019,Gigitan Serangga
+71,Dengue,DKI Jakarta,Female,9,5073236,11/11/2019,Gigitan Serangga
+72,Dengue,DKI Jakarta,Female,17,5099884,11/24/2023,Gigitan Serangga
+73,Dengue,DI Yogyakarta,Male,1,124301,10/21/2021,Gigitan Serangga
+74,Dengue,Nusa Tenggara Timur,Female,1,130130,11/11/2021,Gigitan Serangga
+75,Dengue,Kalimantan Barat,Male,2,125648,11/15/2019,Gigitan Serangga
+76,Dengue,Kalimantan Barat,Female,1,43794,9/10/2020,Gigitan Serangga
+77,Dengue,Sulawesi Tenggara,Female,1,43958,11/10/2023,Gigitan Serangga
+78,Dengue,Sumatera Utara,Female,2,198136,9/16/2020,Gigitan Serangga
+79,Dengue,Sumatera Barat,Male,1,209838,9/10/2023,Gigitan Serangga
+80,Dengue,Kepulauan Riau,Female,1,198192,12/31/2024,Gigitan Serangga
+81,Dengue,Bangka Belitung,Female,1,202106,11/29/2020,Gigitan Serangga
+82,Dengue,Jawa Tengah,Male,1,216023,9/21/2018,Gigitan Serangga
+83,Dengue,Jawa Timur,Male,1,216873,9/2/2020,Gigitan Serangga
+84,Dengue,Banten,Male,1,218888,10/23/2024,Gigitan Serangga
+85,Dengue,Papua Barat,Female,2,69108,11/22/2018,Gigitan Serangga
+86,Dengue,Aceh,Male,1,69824,12/12/2020,Gigitan Serangga
+87,Dengue,Sumatera Utara,Female,1,69855,9/23/2019,Gigitan Serangga
+88,Dengue,Nusa Tenggara Barat,Female,1,49853,12/9/2024,Gigitan Serangga
+89,Dengue,Kalimantan Utara,Female,3,1456262,10/28/2022,Gigitan Serangga
+90,Dengue,Sulawesi Tengah,Female,1,1482035,10/1/2022,Gigitan Serangga
+91,Dengue,Sulawesi Selatan,Male,2,1457684,9/25/2023,Gigitan Serangga
+92,Dengue,Maluku,Female,1,1491355,12/29/2019,Gigitan Serangga
+93,Dengue,Papua,Female,1,1496600,11/6/2018,Gigitan Serangga
+94,Dengue,Papua Barat,Male,2,1469223,12/5/2018,Gigitan Serangga
+95,Dengue,Aceh,Male,1,1477630,12/10/2022,Gigitan Serangga
+96,Dengue,Sumatera Utara,Female,1,1512749,11/23/2024,Gigitan Serangga
+97,Dengue,Sumatera Barat,Male,2,1492384,10/1/2022,Gigitan Serangga
+98,Dengue,Riau,Female,4,1539616,12/26/2019,Gigitan Serangga
+99,Dengue,Kepulauan Riau,Male,1,1506897,11/5/2019,Gigitan Serangga
+100,Dengue,Jambi,Male,2,1520356,11/14/2023,Gigitan Serangga
+101,Dengue,Sumatera Selatan,Female,2,1566211,10/23/2023,Gigitan Serangga
+102,Dengue,Bengkulu,Male,5,1533252,10/28/2018,Gigitan Serangga
+103,Dengue,Lampung,Male,9,1549421,9/13/2023,Gigitan Serangga
+104,Dengue,Kalimantan Timur,Female,1,179214,10/16/2023,Gigitan Serangga
+105,Dengue,Kalimantan Utara,Male,1,171058,11/4/2018,Gigitan Serangga
+106,Dengue,Nusa Tenggara Timur,Male,1,807987,11/3/2018,Gigitan Serangga
+107,Dengue,Kalimantan Barat,Female,1,890269,9/23/2019,Gigitan Serangga
+108,Dengue,Sulawesi Tengah,Male,1,1003511,11/14/2024,Gigitan Serangga
+109,Dengue,Maluku,Female,1,1101193,10/31/2023,Gigitan Serangga
+110,Dengue,Maluku Utara,Male,1,1090726,11/24/2020,Gigitan Serangga
+111,Dengue,Aceh,Female,4,1129673,11/20/2021,Gigitan Serangga
+112,Dengue,Sumatera Barat,Female,3,1137546,9/6/2023,Gigitan Serangga
+113,Dengue,Riau,Male,1,1127023,9/21/2019,Gigitan Serangga
+114,Dengue,Kepulauan Riau,Female,1,1152765,11/27/2019,Gigitan Serangga
+115,Dengue,Jambi,Male,4,1142533,11/14/2024,Gigitan Serangga
+116,Dengue,Sumatera Selatan,Female,1,646848,10/19/2022,Gigitan Serangga
+117,Dengue,Kalimantan Barat,Male,1,686026,11/13/2022,Gigitan Serangga
+118,Dengue,Kalimantan Selatan,Male,1,691550,9/21/2023,Gigitan Serangga
+119,Dengue,Sulawesi Tengah,Female,3,731575,9/22/2019,Gigitan Serangga
+120,Dengue,Sulawesi Selatan,Male,1,703543,10/2/2018,Gigitan Serangga
+121,Dengue,Sulawesi Tenggara,Female,1,736595,12/26/2020,Gigitan Serangga
+122,Dengue,Gorontalo,Male,1,708862,9/8/2018,Gigitan Serangga
+123,Dengue,Maluku,Male,1,716435,11/11/2020,Gigitan Serangga
+124,Dengue,Sulawesi Tengah,Female,1,975953,12/1/2024,Gigitan Serangga
+125,Dengue,Papua Barat,Male,1,1006601,9/16/2022,Gigitan Serangga
+126,Dengue,Riau,Female,1,1037268,11/2/2020,Gigitan Serangga
+127,Dengue,Kepulauan Riau,Male,3,1026599,10/23/2021,Gigitan Serangga
+128,Dengue,Jambi,Male,1,1032092,11/18/2023,Gigitan Serangga
+129,Dengue,Sumatera Selatan,Female,6,1050698,9/29/2019,Gigitan Serangga
+130,Dengue,Jawa Timur,Male,2,1441983,11/3/2020,Gigitan Serangga
+131,Dengue,Jawa Timur,Male,1,1513945,9/1/2021,Gigitan Serangga
+132,Dengue,Jawa Timur,Female,1,1518655,11/26/2018,Gigitan Serangga
+133,Dengue,Jawa Timur,Female,5,1540578,9/8/2023,Gigitan Serangga
+134,Dengue,Jawa Timur,Male,2,1562326,12/16/2022,Gigitan Serangga
+135,Dengue,Jawa Timur,Male,3,1574325,9/10/2023,Gigitan Serangga
+136,Dengue,Jawa Timur,Female,6,1565261,10/18/2021,Gigitan Serangga
+137,Dengue,Jawa Timur,Male,3,1588115,12/30/2021,Gigitan Serangga
+138,Dengue,Jawa Timur,Male,7,1599983,12/3/2022,Gigitan Serangga
+139,Dengue,Jawa Timur,Female,4,1595079,10/28/2024,Gigitan Serangga
+140,Dengue,Kalimantan Utara,Male,1,406809,10/26/2021,Gigitan Serangga
+141,Dengue,Sulawesi Utara,Female,3,396251,9/16/2022,Gigitan Serangga
+142,Dengue,Sulawesi Tenggara,Female,1,409265,11/16/2024,Gigitan Serangga
+143,Dengue,Gorontalo,Male,2,421691,12/13/2023,Gigitan Serangga
+144,Dengue,Sulawesi Barat,Female,3,412902,11/2/2018,Gigitan Serangga
+145,Dengue,Jawa Barat,Male,1,341992,12/30/2020,Gigitan Serangga
+146,Dengue,Bali,Male,2,350259,11/12/2022,Gigitan Serangga
+147,Dengue,Maluku Utara,Female,1,131413,12/12/2024,Gigitan Serangga
+148,Dengue,Sumatera Utara,Male,1,138738,11/21/2020,Gigitan Serangga
+149,Dengue,Riau,Female,1,133302,10/10/2024,Gigitan Serangga
+150,Dengue,Kepulauan Riau,Male,1,140021,10/5/2021,Gigitan Serangga
+151,Dengue,Sumatera Selatan,Male,1,347751,12/7/2018,Gigitan Serangga
+152,Dengue,Lampung,Female,1,357397,11/21/2022,Gigitan Serangga
+153,Dengue,Jawa Tengah,Male,1,343820,10/9/2022,Gigitan Serangga
+154,Dengue,Nusa Tenggara Timur,Male,1,349781,10/6/2023,Gigitan Serangga
+155,Dengue,Kalimantan Barat,Female,3,363936,12/5/2021,Gigitan Serangga
+156,Dengue,Kalimantan Timur,Male,3,353837,12/7/2018,Gigitan Serangga
+157,Dengue,Sulawesi Utara,Female,3,377244,11/23/2019,Gigitan Serangga
+158,Dengue,Sulawesi Tengah,Male,2,368089,10/26/2022,Gigitan Serangga
+159,Dengue,Sulawesi Selatan,Female,4,201546,12/1/2021,Gigitan Serangga
+160,Dengue,Sulawesi Tenggara,Male,2,201896,10/7/2022,Gigitan Serangga
+161,Dengue,Sulawesi Barat,Female,1,204367,9/18/2021,Gigitan Serangga
+162,Dengue,Aceh,Male,1,206404,12/25/2020,Gigitan Serangga
+163,Dengue,Riau,Female,1,209105,9/16/2024,Gigitan Serangga
+164,Dengue,Lampung,Female,1,211814,10/10/2018,Gigitan Serangga
+165,Dengue,Jawa Barat,Male,1,214265,12/26/2018,Gigitan Serangga
+166,Dengue,Jawa Tengah,Female,3,214964,10/6/2020,Gigitan Serangga
+167,Dengue,Jawa Timur,Male,1,217146,12/3/2022,Gigitan Serangga
+168,Dengue,Nusa Tenggara Barat,Male,1,856439,10/14/2024,Gigitan Serangga
+169,Dengue,Sulawesi Selatan,Male,1,874064,9/23/2018,Gigitan Serangga
+170,Dengue,Gorontalo,Female,5,882602,11/21/2021,Gigitan Serangga
+171,Dengue,Sulawesi Barat,Male,4,892288,12/26/2024,Gigitan Serangga
+172,Dengue,Maluku,Male,6,896357,12/19/2019,Gigitan Serangga
+173,Dengue,Maluku Utara,Female,1,900923,11/7/2019,Gigitan Serangga
+174,Dengue,Papua,Male,2,906438,10/23/2023,Gigitan Serangga
+175,Dengue,Papua Barat,Female,3,911248,12/24/2024,Gigitan Serangga
+176,Dengue,Aceh,Male,10,916065,10/19/2020,Gigitan Serangga
+177,Dengue,Sumatera Utara,Female,4,924969,12/25/2023,Gigitan Serangga
+178,Dengue,Sumatera Barat,Male,6,928254,9/12/2018,Gigitan Serangga
+179,Dengue,Riau,Male,8,938235,10/27/2019,Gigitan Serangga
+180,Dengue,Jawa Timur,Female,1,127995,10/22/2019,Gigitan Serangga
+181,Dengue,Bali,Male,1,128554,9/3/2022,Gigitan Serangga
+182,Dengue,Kalimantan Timur,Female,1,134421,11/29/2022,Gigitan Serangga
+183,Dengue,Sulawesi Tengah,Male,2,135323,11/5/2018,Gigitan Serangga
+184,Dengue,Riau,Male,1,206076,9/25/2021,Gigitan Serangga
+185,Dengue,Kepulauan Riau,Female,1,207595,11/8/2020,Gigitan Serangga
+186,Dengue,Sumatera Selatan,Female,2,211988,12/2/2022,Gigitan Serangga
+187,Dengue,DKI Jakarta,Male,1,228786,10/17/2018,Gigitan Serangga
+188,Dengue,Kalimantan Barat,Male,1,232651,9/27/2019,Gigitan Serangga
+189,Dengue,Kalimantan Timur,Female,1,243970,12/5/2024,Gigitan Serangga
+190,Dengue,Sulawesi Utara,Female,1,246025,9/25/2021,Gigitan Serangga
+191,Dengue,Sulawesi Tenggara,Female,3,247993,9/5/2024,Gigitan Serangga
+192,Dengue,Sulawesi Barat,Male,3,242017,12/1/2018,Gigitan Serangga
+193,Dengue,Maluku,Female,2,251616,12/8/2021,Gigitan Serangga
+194,Dengue,Maluku Utara,Male,3,244068,11/10/2020,Gigitan Serangga
+195,Dengue,Nusa Tenggara Timur,Female,1,265760,11/28/2022,Gigitan Serangga
+196,Dengue,Papua Barat,Female,1,47546,10/29/2023,Gigitan Serangga
+197,Dengue,Maluku,Female,1,221174,10/16/2023,Gigitan Serangga
+198,Dengue,Maluku Utara,Male,1,221912,11/14/2021,Gigitan Serangga
+199,Dengue,Jawa Barat,Female,1,411541,12/18/2020,Gigitan Serangga
+200,Dengue,Bali,Female,1,419032,9/24/2024,Gigitan Serangga
+201,Dengue,Nusa Tenggara Barat,Male,1,414329,9/26/2018,Gigitan Serangga
+202,Dengue,Nusa Tenggara Timur,Male,1,417301,10/23/2024,Gigitan Serangga
+203,Dengue,Kalimantan Tengah,Male,1,419792,10/8/2020,Gigitan Serangga
+204,Dengue,Aceh,Male,1,99947,10/7/2018,Gigitan Serangga
+205,Dengue,Sumatera Utara,Female,1,105598,9/11/2022,Gigitan Serangga
+206,Dengue,Riau,Female,2,106165,9/11/2022,Gigitan Serangga
+207,Dengue,Kalimantan Tengah,Female,1,35896,12/25/2024,Gigitan Serangga
+208,Gonorrhea,Kalimantan Tengah,Female,37,111415,12/18/2023,Darah dan Seks
+209,Gonorrhea,Kalimantan Timur,Female,70,111548,12/2/2020,Darah dan Seks
+210,Gonorrhea,Sulawesi Utara,Female,147,112637,12/28/2023,Darah dan Seks
+211,Gonorrhea,Sulawesi Tengah,Male,154,111268,12/27/2018,Darah dan Seks
+212,Gonorrhea,Sulawesi Tenggara,Female,1,21136,12/13/2018,Darah dan Seks
+213,Gonorrhea,Maluku,Male,4,21531,12/8/2020,Darah dan Seks
+214,Gonorrhea,Maluku Utara,Female,6,22015,12/4/2018,Darah dan Seks
+215,Gonorrhea,Papua,Male,5,21909,12/6/2022,Darah dan Seks
+216,Gonorrhea,Jawa Barat,Male,13830,17607062,12/2/2022,Darah dan Seks
+217,Gonorrhea,Jawa Barat,Female,13783,17969405,12/17/2023,Darah dan Seks
+218,Gonorrhea,Jawa Barat,Male,16615,17785422,12/17/2018,Darah dan Seks
+219,Gonorrhea,Jawa Barat,Female,13136,19028077,12/29/2020,Darah dan Seks
+220,Gonorrhea,Papua,Female,842,747676,12/14/2024,Darah dan Seks
+221,Gonorrhea,Aceh,Female,877,746959,12/7/2024,Darah dan Seks
+222,Gonorrhea,Riau,Female,1162,746698,12/20/2021,Darah dan Seks
+223,Gonorrhea,Sumatera Selatan,Male,1157,724347,12/22/2020,Darah dan Seks
+224,Gonorrhea,Lampung,Female,1,16101,12/9/2021,Darah dan Seks
+225,Gonorrhea,Bali,Male,4,20845,12/6/2019,Darah dan Seks
+226,Gonorrhea,Sulawesi Selatan,Female,5,16358,12/22/2021,Darah dan Seks
+227,Gonorrhea,Sulawesi Barat,Male,10,101033,12/10/2018,Darah dan Seks
+228,Gonorrhea,Papua,Male,63,103625,12/28/2019,Darah dan Seks
+229,Gonorrhea,Sumatera Barat,Male,49,105281,12/20/2021,Darah dan Seks
+230,Gonorrhea,Jawa Barat,Male,19,109194,12/28/2022,Darah dan Seks
+231,Gonorrhea,Nusa Tenggara Barat,Female,4,22842,12/19/2022,Darah dan Seks
+232,Gonorrhea,Sulawesi Tenggara,Female,3,22468,12/22/2018,Darah dan Seks
+233,Gonorrhea,Maluku,Male,8,22408,12/15/2024,Darah dan Seks
+234,Gonorrhea,Maluku Utara,Female,9,22552,12/15/2021,Darah dan Seks
+235,Gonorrhea,Sumatera Barat,Female,3,9661,12/22/2024,Darah dan Seks
+236,Gonorrhea,Riau,Male,1,10024,12/9/2020,Darah dan Seks
+237,Gonorrhea,Kepulauan Riau,Female,3,9891,12/6/2023,Darah dan Seks
+238,Gonorrhea,Lampung,Female,4,10228,12/21/2018,Darah dan Seks
+239,Gonorrhea,Kalimantan Barat,Male,272,473054,12/7/2018,Darah dan Seks
+240,Gonorrhea,Sulawesi Utara,Female,398,511239,12/5/2021,Darah dan Seks
+241,Gonorrhea,Sulawesi Tengah,Male,364,486962,12/25/2021,Darah dan Seks
+242,Gonorrhea,Sulawesi Tenggara,Male,336,490062,12/22/2021,Darah dan Seks
+243,Gonorrhea,Aceh,Male,338,513099,12/28/2021,Darah dan Seks
+244,Gonorrhea,Sumatera Barat,Female,544,547638,12/26/2019,Darah dan Seks
+245,Gonorrhea,Kepulauan Riau,Male,430,527673,12/3/2018,Darah dan Seks
+246,Gonorrhea,Jawa Barat,Female,1,12649,12/1/2021,Darah dan Seks
+247,Gonorrhea,Banten,Female,1,12697,12/29/2018,Darah dan Seks
+248,Gonorrhea,Maluku,Male,5,82314,12/6/2019,Darah dan Seks
+249,Gonorrhea,Papua Barat,Female,6,85200,12/15/2023,Darah dan Seks
+250,Gonorrhea,Aceh,Male,8,85104,12/25/2020,Darah dan Seks
+251,Gonorrhea,Riau,Male,8,87604,12/7/2021,Darah dan Seks
+252,Gonorrhea,Bengkulu,Male,9,89825,12/8/2019,Darah dan Seks
+253,Gonorrhea,Lampung,Male,9,90511,12/24/2024,Darah dan Seks
+254,Gonorrhea,DKI Jakarta,Male,5,90298,12/20/2020,Darah dan Seks
+255,Gonorrhea,Jawa Tengah,Male,11,91335,12/15/2021,Darah dan Seks
+256,Gonorrhea,Jawa Timur,Female,10,91508,12/10/2020,Darah dan Seks
+257,Gonorrhea,DI Yogyakarta,Male,28,91450,12/15/2021,Darah dan Seks
+258,Gonorrhea,Banten,Female,21,92046,12/11/2020,Darah dan Seks
+259,Gonorrhea,Bali,Male,30,91911,12/7/2018,Darah dan Seks
+260,Gonorrhea,Kalimantan Tengah,Male,424,414430,12/11/2020,Darah dan Seks
+261,Gonorrhea,Kalimantan Selatan,Male,458,422899,12/5/2022,Darah dan Seks
+262,Gonorrhea,Aceh,Female,682,469845,12/17/2024,Darah dan Seks
+263,Gonorrhea,Bangka Belitung,Female,1,13251,12/28/2018,Darah dan Seks
+264,Gonorrhea,Sulawesi Selatan,Male,3,14463,12/29/2020,Darah dan Seks
+265,Gonorrhea,Sulawesi Tenggara,Male,1,14508,12/4/2024,Darah dan Seks
+266,Gonorrhea,Gorontalo,Female,20,64153,12/2/2023,Darah dan Seks
+267,Gonorrhea,Sulawesi Barat,Male,10,63970,12/29/2018,Darah dan Seks
+268,Gonorrhea,Sumatera Utara,Female,14,66298,12/15/2018,Darah dan Seks
+269,Gonorrhea,Sumatera Barat,Male,7,65928,12/24/2020,Darah dan Seks
+270,Gonorrhea,Riau,Female,17,66619,12/25/2021,Darah dan Seks
+271,Gonorrhea,Sumatera Selatan,Male,10,66903,12/19/2020,Darah dan Seks
+272,Gonorrhea,Kalimantan Utara,Male,25,81531,12/11/2020,Darah dan Seks
+273,Gonorrhea,Sulawesi Utara,Female,21,78596,12/8/2021,Darah dan Seks
+274,Gonorrhea,Sulawesi Tengah,Male,22,83936,12/26/2023,Darah dan Seks
+275,Gonorrhea,Sumatera Barat,Male,1,8968,12/6/2022,Darah dan Seks
+276,Gonorrhea,Kepulauan Riau,Male,1,9088,12/10/2018,Darah dan Seks
+277,Gonorrhea,Bangka Belitung,Female,3,9309,12/3/2018,Darah dan Seks
+278,Gonorrhea,DKI Jakarta,Male,3,9154,12/16/2020,Darah dan Seks
+279,Gonorrhea,Jawa Barat,Female,1,9267,12/23/2021,Darah dan Seks
+280,Gonorrhea,DI Yogyakarta,Female,1,9209,12/2/2023,Darah dan Seks
+281,Gonorrhea,Kalimantan Utara,Male,1,9451,12/18/2024,Darah dan Seks
+282,Gonorrhea,Sumatera Barat,Female,530,404512,12/16/2022,Darah dan Seks
+283,Gonorrhea,Jawa Timur,Female,59,61768,12/12/2019,Darah dan Seks
+284,Gonorrhea,Nusa Tenggara Barat,Female,54,64272,12/6/2024,Darah dan Seks
+285,Gonorrhea,Kalimantan Selatan,Male,9,86475,12/12/2020,Darah dan Seks
+286,Gonorrhea,Kalimantan Utara,Male,21,85952,12/28/2023,Darah dan Seks
+287,Gonorrhea,Sulawesi Utara,Male,26,85407,12/14/2021,Darah dan Seks
+288,Gonorrhea,Sulawesi Tengah,Female,49,65192,12/16/2024,Darah dan Seks
+289,Gonorrhea,Gorontalo,Male,81,84796,12/26/2024,Darah dan Seks
+290,Gonorrhea,Sumatera Barat,Male,4,31812,12/8/2018,Darah dan Seks
+291,Gonorrhea,Kepulauan Riau,Male,9,31962,12/26/2024,Darah dan Seks
+292,Gonorrhea,Kalimantan Selatan,Female,3,12495,12/27/2018,Darah dan Seks
+293,Gonorrhea,Kalimantan Timur,Male,9,22033,12/1/2022,Darah dan Seks
+294,Gonorrhea,Sulawesi Utara,Male,1,22389,12/15/2018,Darah dan Seks
+295,Gonorrhea,Maluku Utara,Female,1,12465,12/10/2024,Darah dan Seks
+296,Gonorrhea,Papua,Male,4,22212,12/17/2020,Darah dan Seks
+297,Gonorrhea,Aceh,Male,4,21604,12/8/2019,Darah dan Seks
+298,Gonorrhea,Sumatera Barat,Female,3,12089,12/27/2022,Darah dan Seks
+299,Gonorrhea,DKI Jakarta,Male,4735,4832160,12/15/2018,Darah dan Seks
+300,Gonorrhea,DKI Jakarta,Female,4717,4977473,12/17/2019,Darah dan Seks
+301,Gonorrhea,DKI Jakarta,Male,5656,4846619,12/7/2023,Darah dan Seks
+302,Gonorrhea,DKI Jakarta,Male,5912,4827681,12/5/2020,Darah dan Seks
+303,Gonorrhea,DKI Jakarta,Male,4963,4831902,12/3/2018,Darah dan Seks
+304,Gonorrhea,DKI Jakarta,Female,3597,4982072,12/13/2018,Darah dan Seks
+305,Gonorrhea,DKI Jakarta,Male,10715,4970740,12/11/2021,Darah dan Seks
+306,Gonorrhea,Kepulauan Riau,Female,24,65826,12/8/2018,Darah dan Seks
+307,Gonorrhea,Jambi,Female,38,66805,12/20/2018,Darah dan Seks
+308,Gonorrhea,Nusa Tenggara Barat,Male,9,71745,12/6/2022,Darah dan Seks
+309,Gonorrhea,Kalimantan Barat,Male,15,72263,12/13/2019,Darah dan Seks
+310,Gonorrhea,Kalimantan Selatan,Female,50,78861,12/20/2018,Darah dan Seks
+311,Gonorrhea,Sulawesi Utara,Male,39,72833,12/21/2020,Darah dan Seks
+312,Gonorrhea,Sulawesi Tenggara,Female,87,79988,12/15/2019,Darah dan Seks
+313,Gonorrhea,Gorontalo,Male,74,74290,12/24/2022,Darah dan Seks
+314,Gonorrhea,Jawa Timur,Female,28,130130,12/22/2021,Darah dan Seks
+315,Gonorrhea,DI Yogyakarta,Male,56,125648,12/19/2024,Darah dan Seks
+316,Gonorrhea,Nusa Tenggara Timur,Male,1,8807,12/22/2018,Darah dan Seks
+317,Gonorrhea,Kalimantan Tengah,Male,1,8900,12/1/2018,Darah dan Seks
+318,Gonorrhea,Maluku,Male,1,9317,12/18/2022,Darah dan Seks
+319,Gonorrhea,Sumatera Selatan,Female,2,8836,12/17/2021,Darah dan Seks
+320,Gonorrhea,DKI Jakarta,Female,6,43658,12/10/2021,Darah dan Seks
+321,Gonorrhea,Jawa Barat,Male,6,43482,12/28/2019,Darah dan Seks
+322,Gonorrhea,Bali,Female,9,44205,12/6/2022,Darah dan Seks
+323,Gonorrhea,Kalimantan Selatan,Male,13,43690,12/6/2024,Darah dan Seks
+324,Gonorrhea,Kalimantan Timur,Female,9,43887,12/18/2024,Darah dan Seks
+325,Gonorrhea,Kalimantan Utara,Male,10,43759,12/9/2020,Darah dan Seks
+326,Gonorrhea,Sulawesi Tengah,Male,3,43842,12/11/2024,Darah dan Seks
+327,Gonorrhea,Sulawesi Barat,Female,14,44115,12/11/2022,Darah dan Seks
+328,Gonorrhea,Maluku,Male,5,44435,12/3/2021,Darah dan Seks
+329,Gonorrhea,Sumatera Utara,Female,42,108778,12/5/2023,Darah dan Seks
+330,Gonorrhea,Riau,Male,65,114624,12/30/2024,Darah dan Seks
+331,Gonorrhea,Bengkulu,Male,102,120483,12/9/2022,Darah dan Seks
+332,Gonorrhea,Bangka Belitung,Male,91,123068,12/7/2019,Darah dan Seks
+333,Gonorrhea,Jawa Barat,Male,57,125184,12/28/2018,Darah dan Seks
+334,Gonorrhea,Jawa Tengah,Female,52,125498,12/8/2022,Darah dan Seks
+335,Gonorrhea,Kalimantan Tengah,Male,66,132142,12/28/2023,Darah dan Seks
+336,Gonorrhea,Papua,Female,6,4744,12/5/2022,Darah dan Seks
+337,Gonorrhea,Papua Barat,Male,3,4846,12/17/2021,Darah dan Seks
+338,Gonorrhea,Jambi,Male,1,4761,12/13/2018,Darah dan Seks
+339,Gonorrhea,Lampung,Male,1,7182,12/14/2023,Darah dan Seks
+340,Gonorrhea,Jawa Timur,Female,1,6322,12/19/2018,Darah dan Seks
+341,Gonorrhea,Banten,Female,1,6357,12/6/2021,Darah dan Seks
+342,Gonorrhea,Nusa Tenggara Barat,Female,1,6524,12/6/2020,Darah dan Seks
+343,Gonorrhea,Sulawesi Tengah,Female,1,6698,12/25/2022,Darah dan Seks
+344,Gonorrhea,Sumatera Utara,Female,44,196311,12/24/2021,Darah dan Seks
+345,Gonorrhea,Kepulauan Riau,Male,46,210860,12/4/2020,Darah dan Seks
+346,Gonorrhea,Jambi,Male,98,212515,12/21/2024,Darah dan Seks
+347,Gonorrhea,Bangka Belitung,Female,102,197244,12/29/2019,Darah dan Seks
+348,Gonorrhea,DKI Jakarta,Male,100,208633,12/8/2019,Darah dan Seks
+349,Gonorrhea,Jawa Tengah,Male,88,209704,12/25/2022,Darah dan Seks
+350,Gonorrhea,Nusa Tenggara Barat,Female,40,202106,12/11/2022,Darah dan Seks
+351,Gonorrhea,Kalimantan Tengah,Male,51,216023,12/19/2018,Darah dan Seks
+352,Gonorrhea,Sulawesi Utara,Female,116,206477,12/10/2019,Darah dan Seks
+353,Gonorrhea,Papua Barat,Male,13,65236,12/1/2022,Darah dan Seks
+354,Gonorrhea,Sumatera Barat,Female,12,67533,12/10/2019,Darah dan Seks
+355,Gonorrhea,Nusa Tenggara Barat,Male,4,47997,12/20/2023,Darah dan Seks
+356,Gonorrhea,Kalimantan Barat,Female,2,49734,12/2/2023,Darah dan Seks
+357,Gonorrhea,Maluku,Female,6,49484,12/31/2021,Darah dan Seks
+358,Gonorrhea,Maluku Utara,Male,7,48436,12/7/2024,Darah dan Seks
+359,Gonorrhea,Papua Barat,Male,12,48387,12/29/2021,Darah dan Seks
+360,Gonorrhea,Riau,Female,328,1482035,12/18/2024,Darah dan Seks
+361,Gonorrhea,Jambi,Female,526,1491828,12/18/2022,Darah dan Seks
+362,Gonorrhea,Sumatera Selatan,Female,448,1491355,12/8/2019,Darah dan Seks
+363,Gonorrhea,Bangka Belitung,Male,581,1469223,12/17/2018,Darah dan Seks
+364,Gonorrhea,Jawa Timur,Male,774,1492384,12/15/2018,Darah dan Seks
+365,Gonorrhea,DI Yogyakarta,Male,638,1506897,12/20/2018,Darah dan Seks
+366,Gonorrhea,Banten,Female,424,1553184,12/18/2023,Darah dan Seks
+367,Gonorrhea,Nusa Tenggara Barat,Female,587,1583260,12/29/2023,Darah dan Seks
+368,Gonorrhea,Sulawesi Selatan,Female,29,168495,12/13/2020,Darah dan Seks
+369,Gonorrhea,Gorontalo,Male,24,165146,12/6/2022,Darah dan Seks
+370,Gonorrhea,Papua,Female,51,186575,12/6/2023,Darah dan Seks
+371,Gonorrhea,Papua Barat,Male,71,180616,12/9/2019,Darah dan Seks
+372,Gonorrhea,DKI Jakarta,Female,1,10198,12/15/2019,Darah dan Seks
+373,Gonorrhea,Jawa Timur,Male,2,10027,12/11/2018,Darah dan Seks
+374,Gonorrhea,Bali,Male,2,9965,12/18/2019,Darah dan Seks
+375,Gonorrhea,Nusa Tenggara Timur,Female,2,9918,12/12/2024,Darah dan Seks
+376,Gonorrhea,Sulawesi Barat,Female,437,972165,12/15/2024,Darah dan Seks
+377,Gonorrhea,Papua Barat,Male,582,1035889,12/2/2021,Darah dan Seks
+378,Gonorrhea,DKI Jakarta,Male,799,1127023,12/5/2021,Darah dan Seks
+379,Gonorrhea,Jawa Tengah,Male,993,1142533,12/16/2023,Darah dan Seks
+380,Gonorrhea,Jawa Timur,Female,610,646848,12/19/2021,Darah dan Seks
+381,Gonorrhea,Banten,Female,783,660747,12/3/2024,Darah dan Seks
+382,Gonorrhea,Bali,Male,662,632736,12/29/2024,Darah dan Seks
+383,Gonorrhea,Kalimantan Tengah,Male,1053,664649,12/29/2018,Darah dan Seks
+384,Gonorrhea,Kalimantan Utara,Female,868,714913,12/16/2018,Darah dan Seks
+385,Gonorrhea,Sulawesi Utara,Male,793,686026,12/2/2020,Darah dan Seks
+386,Gonorrhea,Maluku,Female,1146,731575,12/19/2020,Darah dan Seks
+387,Gonorrhea,Papua Barat,Male,1070,708862,12/15/2019,Darah dan Seks
+388,Gonorrhea,Aceh,Female,1070,744045,12/25/2021,Darah dan Seks
+389,Gonorrhea,Sumatera Utara,Female,1,27085,12/14/2022,Darah dan Seks
+390,Gonorrhea,Sumatera Selatan,Male,8,27961,12/24/2020,Darah dan Seks
+391,Gonorrhea,Bengkulu,Female,23,27433,12/28/2022,Darah dan Seks
+392,Gonorrhea,Bangka Belitung,Female,9,27319,12/17/2018,Darah dan Seks
+393,Gonorrhea,Banten,Male,3,27601,12/21/2019,Darah dan Seks
+394,Gonorrhea,Nusa Tenggara Barat,Female,10,27980,12/18/2020,Darah dan Seks
+395,Gonorrhea,Nusa Tenggara Timur,Male,4,27968,12/7/2018,Darah dan Seks
+396,Gonorrhea,Sulawesi Tenggara,Male,753,897124,12/19/2019,Darah dan Seks
+397,Gonorrhea,Sumatera Utara,Female,1042,1006099,12/16/2023,Darah dan Seks
+398,Gonorrhea,Sumatera Barat,Male,788,996552,12/30/2022,Darah dan Seks
+399,Gonorrhea,Jawa Barat,Female,1269,1050698,12/3/2018,Darah dan Seks
+400,Gonorrhea,Jawa Timur,Male,1492,1491362,12/27/2018,Darah dan Seks
+401,Gonorrhea,Jawa Timur,Female,1163,1484896,12/24/2023,Darah dan Seks
+402,Gonorrhea,Jawa Timur,Male,1478,1562326,12/17/2018,Darah dan Seks
+403,Gonorrhea,Jawa Timur,Female,358,384805,12/30/2020,Darah dan Seks
+404,Gonorrhea,DI Yogyakarta,Male,1675,397418,12/19/2024,Darah dan Seks
+405,Gonorrhea,Nusa Tenggara Barat,Female,246,384643,12/13/2022,Darah dan Seks
+406,Gonorrhea,Kalimantan Timur,Male,2094,395954,12/23/2024,Darah dan Seks
+407,Gonorrhea,Kalimantan Utara,Female,338,385444,12/14/2022,Darah dan Seks
+408,Gonorrhea,Sulawesi Selatan,Male,1724,401556,12/21/2022,Darah dan Seks
+409,Gonorrhea,Sulawesi Tenggara,Female,290,393420,12/26/2019,Darah dan Seks
+410,Gonorrhea,Maluku Utara,Male,2016,413541,12/16/2018,Darah dan Seks
+411,Gonorrhea,Lampung,Female,437,320359,12/29/2023,Darah dan Seks
+412,Gonorrhea,Jawa Barat,Male,366,324668,12/29/2019,Darah dan Seks
+413,Gonorrhea,DI Yogyakarta,Male,455,333609,12/26/2023,Darah dan Seks
+414,Gonorrhea,Bali,Female,290,341446,12/1/2022,Darah dan Seks
+415,Gonorrhea,Kalimantan Tengah,Male,340,347738,12/7/2019,Darah dan Seks
+416,Gonorrhea,Sulawesi Tengah,Female,16,123484,12/25/2018,Darah dan Seks
+417,Gonorrhea,Sumatera Barat,Female,11,131413,12/13/2022,Darah dan Seks
+418,Gonorrhea,DKI Jakarta,Male,128,346513,12/26/2023,Darah dan Seks
+419,Gonorrhea,DI Yogyakarta,Female,81,355457,12/8/2018,Darah dan Seks
+420,Gonorrhea,Nusa Tenggara Barat,Male,185,343868,12/19/2021,Darah dan Seks
+421,Gonorrhea,Sulawesi Tengah,Female,65,374158,12/15/2023,Darah dan Seks
+422,Gonorrhea,Gorontalo,Male,243,365012,12/5/2019,Darah dan Seks
+423,Gonorrhea,Kepulauan Riau,Female,53,205279,12/6/2021,Darah dan Seks
+424,Gonorrhea,Sumatera Selatan,Female,40,205752,12/30/2024,Darah dan Seks
+425,Gonorrhea,Jawa Timur,Female,22,211115,12/21/2023,Darah dan Seks
+426,Gonorrhea,Sulawesi Selatan,Female,430,842466,12/19/2020,Darah dan Seks
+427,Gonorrhea,Sulawesi Barat,Male,561,863494,12/13/2022,Darah dan Seks
+428,Gonorrhea,Maluku Utara,Male,497,874064,12/28/2024,Darah dan Seks
+429,Gonorrhea,Papua,Female,302,874428,12/18/2020,Darah dan Seks
+430,Gonorrhea,Papua Barat,Male,396,885106,12/3/2021,Darah dan Seks
+431,Gonorrhea,DI Yogyakarta,Male,62,127132,12/27/2019,Darah dan Seks
+432,Gonorrhea,Banten,Female,26,127995,12/18/2023,Darah dan Seks
+433,Gonorrhea,Bali,Male,39,127491,12/5/2019,Darah dan Seks
+434,Gonorrhea,Kalimantan Utara,Male,43,132529,12/17/2022,Darah dan Seks
+435,Gonorrhea,Sulawesi Utara,Female,47,134421,12/16/2023,Darah dan Seks
+436,Gonorrhea,Sulawesi Selatan,Male,70,135323,12/10/2024,Darah dan Seks
+437,Gonorrhea,Sulawesi Barat,Male,15,82962,12/17/2023,Darah dan Seks
+438,Gonorrhea,Papua,Male,22,84982,12/12/2019,Darah dan Seks
+439,Gonorrhea,Jawa Timur,Female,179,90621,12/4/2019,Darah dan Seks
+440,Gonorrhea,Sulawesi Tengah,Female,1,1601,12/20/2018,Darah dan Seks
+441,Gonorrhea,Lampung,Female,8,22711,12/7/2020,Darah dan Seks
+442,Gonorrhea,Jawa Barat,Male,4,22214,12/16/2018,Darah dan Seks
+443,Gonorrhea,Nusa Tenggara Timur,Female,3,22626,12/13/2019,Darah dan Seks
+444,Gonorrhea,Kalimantan Selatan,Male,12,22599,12/20/2020,Darah dan Seks
+445,Gonorrhea,Kalimantan Utara,Female,119,200691,12/10/2021,Darah dan Seks
+446,Gonorrhea,Sulawesi Utara,Male,102,202277,12/27/2018,Darah dan Seks
+447,Gonorrhea,Sulawesi Selatan,Female,130,203877,12/8/2023,Darah dan Seks
+448,Gonorrhea,Gorontalo,Female,234,204855,12/14/2022,Darah dan Seks
+449,Gonorrhea,Maluku,Female,216,205356,12/18/2020,Darah dan Seks
+450,Gonorrhea,Aceh,Female,160,206166,12/23/2019,Darah dan Seks
+451,Gonorrhea,Sumatera Barat,Female,250,207038,12/24/2021,Darah dan Seks
+452,Gonorrhea,Jambi,Female,203,210035,12/26/2022,Darah dan Seks
+453,Gonorrhea,Bangka Belitung,Male,17,228786,12/3/2020,Darah dan Seks
+454,Gonorrhea,Jawa Timur,Male,63,230188,12/17/2023,Darah dan Seks
+455,Gonorrhea,DI Yogyakarta,Female,67,238891,12/15/2020,Darah dan Seks
+456,Gonorrhea,Kalimantan Selatan,Female,46,247231,12/13/2018,Darah dan Seks
+457,Gonorrhea,Kalimantan Utara,Female,60,247993,12/26/2021,Darah dan Seks
+458,Gonorrhea,Papua,Male,78,233294,12/10/2024,Darah dan Seks
+459,Gonorrhea,Papua Barat,Male,127,238088,12/1/2024,Darah dan Seks
+460,Gonorrhea,Bengkulu,Male,127,252205,12/3/2019,Darah dan Seks
+461,Gonorrhea,DI Yogyakarta,Male,150,259005,12/8/2020,Darah dan Seks
+462,Gonorrhea,Sulawesi Tengah,Male,35,43650,12/22/2022,Darah dan Seks
+463,Gonorrhea,Sulawesi Selatan,Female,24,45699,12/2/2020,Darah dan Seks
+464,Gonorrhea,Sulawesi Tenggara,Male,11,44929,12/1/2020,Darah dan Seks
+465,Gonorrhea,Sumatera Selatan,Male,37,48042,12/27/2020,Darah dan Seks
+466,Gonorrhea,Bengkulu,Male,40,47879,12/17/2022,Darah dan Seks
+467,Gonorrhea,Jawa Tengah,Male,5,29516,12/29/2023,Darah dan Seks
+468,Gonorrhea,Banten,Female,19,30951,12/18/2023,Darah dan Seks
+469,Gonorrhea,Sulawesi Barat,Male,7,30836,12/29/2018,Darah dan Seks
+470,Gonorrhea,Maluku Utara,Female,7,31697,12/2/2018,Darah dan Seks
+471,Gonorrhea,Aceh,Male,4,31630,12/5/2019,Darah dan Seks
+472,Gonorrhea,Kepulauan Riau,Male,30,32040,12/17/2019,Darah dan Seks
+473,Gonorrhea,DKI Jakarta,Male,2,6945,12/12/2018,Darah dan Seks
+474,Gonorrhea,DI Yogyakarta,Female,2,6689,12/26/2024,Darah dan Seks
+475,Gonorrhea,Sulawesi Barat,Female,46,186935,12/27/2019,Darah dan Seks
+476,Gonorrhea,Sumatera Utara,Male,198,208162,12/20/2021,Darah dan Seks
+477,Gonorrhea,Bengkulu,Female,44,221174,12/12/2020,Darah dan Seks
+478,Gonorrhea,DKI Jakarta,Male,44,224201,12/27/2018,Darah dan Seks
+479,Gonorrhea,DI Yogyakarta,Male,160,228149,12/14/2018,Darah dan Seks
+480,Gonorrhea,Banten,Female,177,229092,12/25/2023,Darah dan Seks
+481,Gonorrhea,Nusa Tenggara Timur,Female,2,26405,12/4/2024,Darah dan Seks
+482,Gonorrhea,Kalimantan Timur,Female,6,26593,12/10/2022,Darah dan Seks
+483,Gonorrhea,Kalimantan Utara,Male,4,29776,12/25/2020,Darah dan Seks
+484,Gonorrhea,Sulawesi Tengah,Female,6,26670,12/19/2024,Darah dan Seks
+485,Gonorrhea,Sulawesi Barat,Male,3,29645,12/28/2022,Darah dan Seks
+486,Gonorrhea,Sumatera Utara,Male,8,28532,12/19/2022,Darah dan Seks
+487,Gonorrhea,Kepulauan Riau,Female,9,25373,12/22/2018,Darah dan Seks
+488,Gonorrhea,Jawa Tengah,Female,122,400152,12/27/2023,Darah dan Seks
+489,Gonorrhea,Jawa Timur,Male,94,396715,12/18/2022,Darah dan Seks
+490,Gonorrhea,Sumatera Barat,Female,15,102303,12/27/2018,Darah dan Seks
+491,Gonorrhea,Riau,Male,36,97394,12/5/2023,Darah dan Seks
+492,Gonorrhea,Jawa Timur,Male,10,30952,12/15/2023,Darah dan Seks
+493,Gonorrhea,DI Yogyakarta,Male,11,31596,12/22/2020,Darah dan Seks
+494,Gonorrhea,Kalimantan Tengah,Female,18,34418,12/11/2019,Darah dan Seks
+495,Gonorrhea,Sulawesi Tengah,Male,8,35895,12/2/2021,Darah dan Seks
+496,Gonorrhea,Gorontalo,Male,5,36440,12/21/2022,Darah dan Seks
+497,Gonorrhea,Papua,Male,6,36688,12/24/2022,Darah dan Seks
+498,"Hepatitis B, Acute",Jawa Barat,Male,111,18691131,12/20/2018,Darah dan Seks
+499,"Hepatitis B, Acute",Jawa Barat,Male,100,18988773,12/5/2018,Darah dan Seks
+500,"Hepatitis B, Acute",Lampung,Male,2,534708,12/29/2022,Darah dan Seks
+501,"Hepatitis B, Acute",Sulawesi Tenggara,Male,2,474153,12/20/2022,Darah dan Seks
+502,"Hepatitis B, Acute",Lampung,Female,2,86982,12/16/2020,Darah dan Seks
+503,"Hepatitis B, Acute",Kalimantan Barat,Female,3,411962,12/27/2018,Darah dan Seks
+504,"Hepatitis B, Acute",Kalimantan Selatan,Female,2,416808,12/11/2022,Darah dan Seks
+505,"Hepatitis B, Acute",Maluku Utara,Male,1,32327,12/9/2021,Darah dan Seks
+506,"Hepatitis B, Acute",Kepulauan Riau,Male,1,130544,12/13/2020,Darah dan Seks
+507,"Hepatitis B, Acute",Jawa Barat,Female,1,1583260,12/8/2023,Darah dan Seks
+508,"Hepatitis B, Acute",Nusa Tenggara Barat,Female,1,186575,12/29/2022,Darah dan Seks
+509,"Hepatitis B, Acute",Nusa Tenggara Timur,Male,1,178149,12/8/2020,Darah dan Seks
+510,"Hepatitis B, Acute",Sulawesi Tenggara,Male,5,1104959,12/1/2019,Darah dan Seks
+511,"Hepatitis B, Acute",Maluku,Male,3,1127023,12/29/2023,Darah dan Seks
+512,"Hepatitis B, Acute",Sumatera Utara,Female,1,731575,12/28/2021,Darah dan Seks
+513,"Hepatitis B, Acute",Kepulauan Riau,Male,4,708862,12/21/2019,Darah dan Seks
+514,"Hepatitis B, Acute",Jawa Tengah,Male,5,1032092,12/31/2019,Darah dan Seks
+515,"Hepatitis B, Acute",Jawa Timur,Female,2,1595079,12/23/2020,Darah dan Seks
+516,"Hepatitis B, Acute",Banten,Female,3,400054,12/30/2024,Darah dan Seks
+517,"Hepatitis B, Acute",Sulawesi Utara,Female,1,350020,12/14/2020,Darah dan Seks
+518,"Hepatitis B, Acute",Jawa Timur,Male,1,219367,12/13/2021,Darah dan Seks
+519,"Hepatitis B, Acute",Sulawesi Tengah,Male,1,135901,12/5/2024,Darah dan Seks
+520,"Hepatitis B, Acute",Bangka Belitung,Male,1,22620,12/23/2021,Darah dan Seks
+521,"Hepatitis B, Acute",Kalimantan Utara,Male,1,244068,12/8/2024,Darah dan Seks
+522,"Hepatitis B, Acute",Sulawesi Selatan,Female,1,264121,12/8/2018,Darah dan Seks
+523,"Hepatitis B, Acute",Gorontalo,Female,2,265760,12/30/2023,Darah dan Seks
+524,"Hepatitis B, Acute",Nusa Tenggara Timur,Female,1,225721,12/2/2021,Darah dan Seks
+525,HIV,Jawa Timur,Male,1,9329,12/8/2020,Darah dan Seks
+526,HIV,Jawa Barat,Male,5307,18028441,12/7/2020,Darah dan Seks
+527,HIV,Jawa Barat,Female,730,18526603,12/20/2023,Darah dan Seks
+528,HIV,Jawa Barat,Male,4997,18331667,12/28/2024,Darah dan Seks
+529,HIV,Jawa Barat,Female,618,18752748,12/11/2022,Darah dan Seks
+530,HIV,Jawa Barat,Female,540,19177344,12/29/2020,Darah dan Seks
+531,HIV,Kalimantan Utara,Female,59,748222,12/21/2018,Darah dan Seks
+532,HIV,Sulawesi Barat,Female,61,746698,12/10/2021,Darah dan Seks
+533,HIV,Sumatera Selatan,Female,29,797654,12/18/2023,Darah dan Seks
+534,HIV,Kalimantan Selatan,Male,1,20878,12/12/2021,Darah dan Seks
+535,HIV,Sulawesi Utara,Male,2,20708,12/26/2018,Darah dan Seks
+536,HIV,Sumatera Selatan,Female,4,110027,12/27/2020,Darah dan Seks
+537,HIV,Bengkulu,Female,2,110685,12/5/2022,Darah dan Seks
+538,HIV,Jawa Barat,Female,1,111086,12/30/2020,Darah dan Seks
+539,HIV,Jawa Tengah,Male,4,108885,12/20/2019,Darah dan Seks
+540,HIV,DI Yogyakarta,Male,3,109194,12/23/2018,Darah dan Seks
+541,HIV,Kalimantan Timur,Male,1,21531,12/8/2021,Darah dan Seks
+542,HIV,Kalimantan Utara,Female,2,22015,12/18/2024,Darah dan Seks
+543,HIV,Sulawesi Barat,Male,1,22796,12/2/2024,Darah dan Seks
+544,HIV,Aceh,Male,1,22757,12/22/2023,Darah dan Seks
+545,HIV,Riau,Male,87,486962,12/26/2019,Darah dan Seks
+546,HIV,Lampung,Male,90,498501,12/31/2022,Darah dan Seks
+547,HIV,Nusa Tenggara Timur,Male,75,521520,12/11/2023,Darah dan Seks
+548,HIV,Kalimantan Barat,Male,73,527673,12/9/2021,Darah dan Seks
+549,HIV,Kalimantan Timur,Male,1,15165,12/26/2021,Darah dan Seks
+550,HIV,DKI Jakarta,Male,13,80892,12/23/2019,Darah dan Seks
+551,HIV,Jawa Timur,Male,6,83795,12/6/2023,Darah dan Seks
+552,HIV,Nusa Tenggara Barat,Female,1,87654,12/23/2021,Darah dan Seks
+553,HIV,Kalimantan Tengah,Female,7,89339,12/2/2024,Darah dan Seks
+554,HIV,Sulawesi Tenggara,Female,1,91508,12/24/2020,Darah dan Seks
+555,HIV,Sumatera Barat,Male,56,430028,12/20/2020,Darah dan Seks
+556,HIV,Banten,Female,18,474300,12/31/2021,Darah dan Seks
+557,HIV,Nusa Tenggara Barat,Female,13,478477,12/7/2019,Darah dan Seks
+558,HIV,Kalimantan Barat,Female,1,13154,12/2/2023,Darah dan Seks
+559,HIV,Sulawesi Selatan,Female,1,13636,12/14/2023,Darah dan Seks
+560,HIV,Jambi,Male,1,14424,12/18/2022,Darah dan Seks
+561,HIV,Kalimantan Timur,Male,7,66582,12/7/2023,Darah dan Seks
+562,HIV,Sulawesi Tengah,Male,1,67901,12/7/2022,Darah dan Seks
+563,HIV,Sulawesi Tenggara,Male,2,68198,12/9/2020,Darah dan Seks
+564,HIV,Gorontalo,Male,2,67872,12/11/2024,Darah dan Seks
+565,HIV,Sulawesi Barat,Male,2,67922,12/11/2022,Darah dan Seks
+566,HIV,Jawa Barat,Female,15,348293,12/13/2019,Darah dan Seks
+567,HIV,DI Yogyakarta,Female,14,369284,12/12/2019,Darah dan Seks
+568,HIV,Bali,Female,10,380855,12/2/2024,Darah dan Seks
+569,HIV,Kalimantan Tengah,Female,8,397224,12/13/2018,Darah dan Seks
+570,HIV,Sulawesi Selatan,Female,16,411962,12/12/2023,Darah dan Seks
+571,HIV,Sumatera Barat,Male,11,86106,12/21/2022,Darah dan Seks
+572,HIV,Sumatera Selatan,Male,6,86927,12/18/2018,Darah dan Seks
+573,HIV,Bengkulu,Female,1,66218,12/16/2023,Darah dan Seks
+574,HIV,DI Yogyakarta,Female,1,30720,12/27/2020,Darah dan Seks
+575,HIV,Bali,Female,1,31191,12/14/2018,Darah dan Seks
+576,HIV,Nusa Tenggara Barat,Male,3,30790,12/24/2020,Darah dan Seks
+577,HIV,Kalimantan Barat,Male,3,31130,12/22/2019,Darah dan Seks
+578,HIV,Kalimantan Tengah,Female,3,31709,12/5/2023,Darah dan Seks
+579,HIV,Kalimantan Timur,Female,1,31980,12/15/2023,Darah dan Seks
+580,HIV,Sumatera Barat,Female,1,12307,12/13/2022,Darah dan Seks
+581,HIV,Jawa Timur,Male,2,22489,12/24/2019,Darah dan Seks
+582,HIV,Nusa Tenggara Barat,Male,1,22516,12/19/2021,Darah dan Seks
+583,HIV,Kalimantan Barat,Male,1,22212,12/18/2019,Darah dan Seks
+584,HIV,Sulawesi Utara,Female,5,65826,12/18/2018,Darah dan Seks
+585,HIV,Aceh,Female,11,77369,12/14/2018,Darah dan Seks
+586,HIV,Sumatera Barat,Female,11,77888,12/29/2022,Darah dan Seks
+587,HIV,Riau,Male,8,72263,12/18/2019,Darah dan Seks
+588,HIV,Sumatera Selatan,Female,5,78409,12/27/2020,Darah dan Seks
+589,HIV,Bangka Belitung,Male,6,73609,12/23/2018,Darah dan Seks
+590,HIV,DI Yogyakarta,Male,38,122021,12/16/2022,Darah dan Seks
+591,HIV,Kalimantan Selatan,Male,35,122743,12/19/2019,Darah dan Seks
+592,HIV,Sulawesi Tenggara,Male,26,124301,12/2/2019,Darah dan Seks
+593,HIV,Sulawesi Barat,Male,21,124946,12/3/2022,Darah dan Seks
+594,HIV,Maluku,Female,1,128952,12/19/2023,Darah dan Seks
+595,HIV,Papua Barat,Male,15,125648,12/25/2018,Darah dan Seks
+596,HIV,Maluku Utara,Male,2,43690,12/9/2023,Darah dan Seks
+597,HIV,Aceh,Male,2,43842,12/21/2022,Darah dan Seks
+598,HIV,Sumatera Barat,Male,5,43775,12/23/2020,Darah dan Seks
+599,HIV,Sumatera Selatan,Male,2,44179,12/5/2018,Darah dan Seks
+600,HIV,DI Yogyakarta,Female,2,111411,12/6/2018,Darah dan Seks
+601,HIV,Kalimantan Tengah,Male,9,125184,12/10/2023,Darah dan Seks
+602,HIV,Kalimantan Timur,Male,14,126434,12/26/2018,Darah dan Seks
+603,HIV,Sulawesi Utara,Male,20,127705,12/11/2022,Darah dan Seks
+604,HIV,Sulawesi Selatan,Female,1,128642,12/1/2023,Darah dan Seks
+605,HIV,Banten,Female,7,199426,12/8/2024,Darah dan Seks
+606,HIV,Kalimantan Tengah,Female,5,198192,12/25/2020,Darah dan Seks
+607,HIV,Kalimantan Selatan,Male,34,209704,12/24/2019,Darah dan Seks
+608,HIV,Kalimantan Timur,Female,6,199794,12/6/2024,Darah dan Seks
+609,HIV,Sumatera Selatan,Male,11,65795,12/3/2024,Darah dan Seks
+610,HIV,DKI Jakarta,Male,6,67253,12/17/2018,Darah dan Seks
+611,HIV,Jawa Tengah,Male,13,67714,12/8/2023,Darah dan Seks
+612,HIV,DI Yogyakarta,Male,5,68716,12/17/2024,Darah dan Seks
+613,HIV,Sulawesi Utara,Male,4,46721,12/21/2021,Darah dan Seks
+614,HIV,Kepulauan Riau,Male,1,48772,12/9/2023,Darah dan Seks
+615,HIV,Bali,Female,52,1490898,12/4/2019,Darah dan Seks
+616,HIV,Kalimantan Utara,Male,302,1469223,12/31/2024,Darah dan Seks
+617,HIV,Sulawesi Tengah,Male,284,1477630,12/15/2023,Darah dan Seks
+618,HIV,Papua Barat,Female,37,1566211,12/30/2024,Darah dan Seks
+619,HIV,DKI Jakarta,Female,3,164667,12/25/2022,Darah dan Seks
+620,HIV,Jawa Tengah,Female,1,168495,12/24/2022,Darah dan Seks
+621,HIV,Bali,Male,7,168120,12/20/2022,Darah dan Seks
+622,HIV,Nusa Tenggara Timur,Female,3,184207,12/4/2021,Darah dan Seks
+623,HIV,Kalimantan Selatan,Male,10,178149,12/15/2020,Darah dan Seks
+624,HIV,DI Yogyakarta,Male,228,807987,12/4/2019,Darah dan Seks
+625,HIV,Nusa Tenggara Barat,Male,217,882158,12/19/2022,Darah dan Seks
+626,HIV,Sulawesi Tenggara,Female,30,1101193,12/15/2018,Darah dan Seks
+627,HIV,Gorontalo,Female,25,1129673,12/25/2021,Darah dan Seks
+628,HIV,Maluku,Female,29,1137546,12/28/2020,Darah dan Seks
+629,HIV,Lampung,Female,32,708444,12/24/2023,Darah dan Seks
+630,HIV,DKI Jakarta,Female,30,714913,12/19/2023,Darah dan Seks
+631,HIV,Jawa Timur,Male,141,691550,12/21/2019,Darah dan Seks
+632,HIV,DI Yogyakarta,Female,25,724678,12/13/2024,Darah dan Seks
+633,HIV,Papua Barat,Male,2,27593,12/13/2018,Darah dan Seks
+634,HIV,Sumatera Selatan,Male,1,28512,12/4/2021,Darah dan Seks
+635,HIV,DI Yogyakarta,Male,152,945729,12/14/2019,Darah dan Seks
+636,HIV,Nusa Tenggara Timur,Male,173,996552,12/24/2019,Darah dan Seks
+637,HIV,Sulawesi Selatan,Female,31,1037268,12/21/2022,Darah dan Seks
+638,HIV,Papua,Female,55,385350,12/2/2022,Darah dan Seks
+639,HIV,Papua Barat,Male,720,397905,12/31/2018,Darah dan Seks
+640,HIV,Sumatera Barat,Female,45,384174,12/27/2020,Darah dan Seks
+641,HIV,Riau,Male,654,396525,12/9/2020,Darah dan Seks
+642,HIV,Jambi,Male,561,395954,12/29/2023,Darah dan Seks
+643,HIV,Bangka Belitung,Male,490,401556,12/16/2020,Darah dan Seks
+644,HIV,Jawa Barat,Female,31,394990,12/16/2024,Darah dan Seks
+645,HIV,Nusa Tenggara Barat,Male,433,417663,12/2/2024,Darah dan Seks
+646,HIV,Kalimantan Barat,Male,376,421691,12/3/2020,Darah dan Seks
+647,HIV,Papua Barat,Male,53,336325,12/22/2022,Darah dan Seks
+648,HIV,Kepulauan Riau,Male,69,345146,12/3/2021,Darah dan Seks
+649,HIV,Sumatera Selatan,Male,40,347738,12/29/2019,Darah dan Seks
+650,HIV,Bengkulu,Female,11,352410,12/10/2024,Darah dan Seks
+651,HIV,DI Yogyakarta,Male,16,130065,12/7/2023,Darah dan Seks
+652,HIV,Nusa Tenggara Barat,Female,1,125898,12/16/2019,Darah dan Seks
+653,HIV,Kalimantan Barat,Female,1,126728,12/22/2021,Darah dan Seks
+654,HIV,Kalimantan Tengah,Male,23,133215,12/4/2022,Darah dan Seks
+655,HIV,Kalimantan Utara,Female,3,128800,12/5/2018,Darah dan Seks
+656,HIV,Sulawesi Utara,Female,5,130093,12/8/2024,Darah dan Seks
+657,HIV,Sulawesi Barat,Female,3,131572,12/6/2019,Darah dan Seks
+658,HIV,Riau,Male,39,347751,12/28/2018,Darah dan Seks
+659,HIV,Jambi,Female,6,357397,12/20/2018,Darah dan Seks
+660,HIV,Nusa Tenggara Timur,Male,42,353837,12/1/2019,Darah dan Seks
+661,HIV,Sulawesi Selatan,Female,3,201546,12/4/2024,Darah dan Seks
+662,HIV,Gorontalo,Male,23,203289,12/2/2023,Darah dan Seks
+663,HIV,Sulawesi Barat,Female,2,204367,12/1/2018,Darah dan Seks
+664,HIV,Maluku Utara,Female,7,205110,12/1/2023,Darah dan Seks
+665,HIV,Sumatera Utara,Female,2,207530,12/30/2018,Darah dan Seks
+666,HIV,Jambi,Female,2,210296,12/12/2021,Darah dan Seks
+667,HIV,Bengkulu,Female,4,211115,12/26/2024,Darah dan Seks
+668,HIV,Bangka Belitung,Female,4,211814,12/24/2022,Darah dan Seks
+669,HIV,Jawa Timur,Male,124,856439,12/22/2019,Darah dan Seks
+670,HIV,DI Yogyakarta,Female,25,837293,12/5/2020,Darah dan Seks
+671,HIV,Nusa Tenggara Timur,Female,32,840509,12/13/2024,Darah dan Seks
+672,HIV,Kalimantan Selatan,Male,124,857055,12/10/2020,Darah dan Seks
+673,HIV,Sulawesi Selatan,Male,138,885106,12/15/2020,Darah dan Seks
+674,HIV,Papua Barat,Female,13,924969,12/23/2019,Darah dan Seks
+675,HIV,Kepulauan Riau,Female,10,128115,12/2/2021,Darah dan Seks
+676,HIV,Jambi,Male,30,127475,12/16/2023,Darah dan Seks
+677,HIV,Sumatera Selatan,Female,1,127867,12/31/2018,Darah dan Seks
+678,HIV,DI Yogyakarta,Male,14,130735,12/3/2022,Darah dan Seks
+679,HIV,Nusa Tenggara Barat,Female,1,132997,12/14/2018,Darah dan Seks
+680,HIV,Sulawesi Barat,Female,1,88842,12/16/2020,Darah dan Seks
+681,HIV,Aceh,Male,4,86735,12/9/2021,Darah dan Seks
+682,HIV,Sumatera Utara,Female,1,89964,12/5/2024,Darah dan Seks
+683,HIV,Sumatera Barat,Female,1,90196,12/14/2023,Darah dan Seks
+684,HIV,Kepulauan Riau,Male,4,87561,12/11/2023,Darah dan Seks
+685,HIV,Sumatera Selatan,Male,7,87666,12/15/2021,Darah dan Seks
+686,HIV,Kalimantan Timur,Female,1,22498,12/23/2020,Darah dan Seks
+687,HIV,Kalimantan Utara,Male,2,22392,12/26/2023,Darah dan Seks
+688,HIV,Sulawesi Barat,Male,89,204081,12/16/2022,Darah dan Seks
+689,HIV,Papua Barat,Male,55,205995,12/29/2020,Darah dan Seks
+690,HIV,Sumatera Selatan,Female,5,207038,12/18/2020,Darah dan Seks
+691,HIV,DKI Jakarta,Male,38,209029,12/12/2024,Darah dan Seks
+692,HIV,Jawa Barat,Female,4,211988,12/14/2023,Darah dan Seks
+693,HIV,Bengkulu,Female,4,244919,12/3/2022,Darah dan Seks
+694,HIV,Jawa Barat,Male,17,245811,12/12/2022,Darah dan Seks
+695,HIV,Kalimantan Barat,Male,29,253256,12/15/2024,Darah dan Seks
+696,HIV,Kalimantan Tengah,Female,5,260328,12/18/2023,Darah dan Seks
+697,HIV,Kalimantan Timur,Male,18,256452,12/29/2024,Darah dan Seks
+698,HIV,Kalimantan Utara,Female,2,264121,12/10/2019,Darah dan Seks
+699,HIV,Sulawesi Tengah,Female,4,265760,12/22/2024,Darah dan Seks
+700,HIV,Sulawesi Selatan,Male,27,260789,12/5/2024,Darah dan Seks
+701,HIV,Papua,Male,2,40569,12/15/2022,Darah dan Seks
+702,HIV,Bangka Belitung,Female,1,47704,12/14/2018,Darah dan Seks
+703,HIV,DKI Jakarta,Male,1,46972,12/20/2021,Darah dan Seks
+704,HIV,Jawa Timur,Male,4,48042,12/24/2020,Darah dan Seks
+705,HIV,Sulawesi Selatan,Male,1,30836,12/14/2023,Darah dan Seks
+706,HIV,Aceh,Male,1,31887,12/13/2021,Darah dan Seks
+707,HIV,Bali,Male,1,7098,12/31/2022,Darah dan Seks
+708,HIV,Kalimantan Selatan,Male,1,7070,12/26/2020,Darah dan Seks
+709,HIV,Gorontalo,Female,7,190521,12/10/2024,Darah dan Seks
+710,HIV,Sulawesi Barat,Male,17,190673,12/21/2022,Darah dan Seks
+711,HIV,Maluku,Male,15,195167,12/2/2020,Darah dan Seks
+712,HIV,Maluku Utara,Female,3,199964,12/28/2023,Darah dan Seks
+713,HIV,Sumatera Barat,Female,5,211625,12/12/2021,Darah dan Seks
+714,HIV,Jawa Barat,Female,7,227227,12/19/2020,Darah dan Seks
+715,HIV,DI Yogyakarta,Male,3,29191,12/19/2021,Darah dan Seks
+716,HIV,Nusa Tenggara Barat,Male,1,29793,12/18/2021,Darah dan Seks
+717,HIV,Kalimantan Timur,Male,2,29888,12/8/2019,Darah dan Seks
+718,HIV,Sulawesi Utara,Male,1,29677,12/16/2021,Darah dan Seks
+719,HIV,Sulawesi Selatan,Male,1,29645,12/18/2021,Darah dan Seks
+720,HIV,Jambi,Male,42,395834,12/17/2023,Darah dan Seks
+721,HIV,DKI Jakarta,Female,6,404979,12/15/2021,Darah dan Seks
+722,HIV,Jawa Barat,Male,36,400932,12/3/2022,Darah dan Seks
+723,HIV,Jawa Tengah,Female,1,408229,12/6/2022,Darah dan Seks
+724,HIV,Kalimantan Barat,Male,27,412493,12/24/2019,Darah dan Seks
+725,HIV,Kalimantan Tengah,Female,6,419032,12/12/2022,Darah dan Seks
+726,HIV,Kalimantan Timur,Female,4,421969,12/28/2022,Darah dan Seks
+727,HIV,Sulawesi Tengah,Female,5,89655,12/29/2020,Darah dan Seks
+728,HIV,Sulawesi Selatan,Male,14,85447,12/24/2024,Darah dan Seks
+729,HIV,Maluku,Female,1,95101,12/21/2022,Darah dan Seks
+730,HIV,Aceh,Male,7,93037,12/10/2018,Darah dan Seks
+731,HIV,Riau,Male,11,96299,12/8/2022,Darah dan Seks
+732,HIV,Sumatera Selatan,Male,5,98180,12/24/2019,Darah dan Seks
+733,HIV,Lampung,Male,8,98833,12/20/2020,Darah dan Seks
+734,HIV,DKI Jakarta,Female,1,105598,12/3/2021,Darah dan Seks
+735,HIV,Maluku,Male,1,36564,12/12/2021,Darah dan Seks
+736,HIV,Maluku Utara,Male,3,36688,12/11/2018,Darah dan Seks
+737,Influenza Death (<65 years of age),Jawa Barat,Female,265,18634031,12/18/2020,Udara
+738,Influenza Death (<65 years of age),Jawa Barat,Male,265,18445222,7/18/2020,Udara
+739,Influenza Death (<65 years of age),Jawa Barat,Female,41,18881056,7/8/2018,Udara
+740,Influenza Death (<65 years of age),Jawa Barat,Male,50,18691131,10/4/2024,Udara
+741,Influenza Death (<65 years of age),Jawa Barat,Male,52,18841496,8/22/2019,Udara
+742,Influenza Death (<65 years of age),Jawa Barat,Female,116,19177344,8/4/2022,Udara
+743,Influenza Death (<65 years of age),Jawa Barat,Male,125,18988773,11/4/2020,Udara
+744,Influenza Death (<65 years of age),Jawa Barat,Female,136,19346905,7/31/2019,Udara
+745,Influenza Death (<65 years of age),Jawa Barat,Male,182,19154588,5/25/2023,Udara
+746,Influenza Death (<65 years of age),Jambi,Male,1,748844,12/3/2019,Udara
+747,Influenza Death (<65 years of age),Sumatera Selatan,Female,1,784429,5/4/2019,Udara
+748,Influenza Death (<65 years of age),DKI Jakarta,Male,6,766363,6/13/2019,Udara
+749,Influenza Death (<65 years of age),Maluku Utara,Female,1,110967,9/13/2018,Udara
+750,Influenza Death (<65 years of age),Maluku,Male,1,513099,5/11/2019,Udara
+751,Influenza Death (<65 years of age),Papua Barat,Male,1,527673,10/9/2023,Udara
+752,Influenza Death (<65 years of age),Sumatera Utara,Male,3,534708,4/18/2023,Udara
+753,Influenza Death (<65 years of age),Kalimantan Selatan,Male,1,91911,10/25/2019,Udara
+754,Influenza Death (<65 years of age),Kalimantan Timur,Female,10,461947,11/27/2019,Udara
+755,Influenza Death (<65 years of age),Kalimantan Utara,Male,7,461948,12/28/2022,Udara
+756,Influenza Death (<65 years of age),Sulawesi Tenggara,Male,2,469484,12/16/2023,Udara
+757,Influenza Death (<65 years of age),Gorontalo,Female,6,474300,10/20/2024,Udara
+758,Influenza Death (<65 years of age),Sulawesi Barat,Male,2,474153,12/12/2020,Udara
+759,Influenza Death (<65 years of age),Maluku,Female,5,478477,11/1/2023,Udara
+760,Influenza Death (<65 years of age),Maluku Utara,Male,8,478490,12/6/2019,Udara
+761,Influenza Death (<65 years of age),Papua Barat,Male,10,483796,9/27/2021,Udara
+762,Influenza Death (<65 years of age),Lampung,Female,1,14207,4/7/2018,Udara
+763,Influenza Death (<65 years of age),Banten,Male,1,67887,12/17/2020,Udara
+764,Influenza Death (<65 years of age),Sumatera Barat,Male,11,428435,4/21/2022,Udara
+765,Influenza Death (<65 years of age),Jambi,Female,3,408373,9/10/2021,Udara
+766,Influenza Death (<65 years of age),Bangka Belitung,Female,7,416808,6/23/2021,Udara
+767,Influenza Death (<65 years of age),DKI Jakarta,Male,1,448703,11/1/2021,Udara
+768,Influenza Death (<65 years of age),Jawa Tengah,Female,1,64867,8/27/2020,Udara
+769,Influenza Death (<65 years of age),Jawa Timur,Male,1,86927,5/14/2019,Udara
+770,Influenza Death (<65 years of age),Nusa Tenggara Timur,Female,2,64992,6/24/2019,Udara
+771,Influenza Death (<65 years of age),Sulawesi Selatan,Female,1,32229,10/1/2018,Udara
+772,Influenza Death (<65 years of age),Sumatera Utara,Male,1,21582,9/1/2022,Udara
+773,Influenza Death (<65 years of age),DKI Jakarta,Female,70,4969936,11/19/2020,Udara
+774,Influenza Death (<65 years of age),DKI Jakarta,Male,2,4864351,6/25/2022,Udara
+775,Influenza Death (<65 years of age),DKI Jakarta,Female,8,5040999,8/30/2022,Udara
+776,Influenza Death (<65 years of age),Banten,Male,1,124946,7/4/2024,Udara
+777,Influenza Death (<65 years of age),Kalimantan Barat,Male,1,126591,11/3/2019,Udara
+778,Influenza Death (<65 years of age),Jambi,Female,2,44077,12/30/2022,Udara
+779,Influenza Death (<65 years of age),Banten,Male,2,133492,6/5/2019,Udara
+780,Influenza Death (<65 years of age),Sumatera Utara,Female,1,201138,12/3/2022,Udara
+781,Influenza Death (<65 years of age),Bangka Belitung,Female,4,206477,7/2/2024,Udara
+782,Influenza Death (<65 years of age),DKI Jakarta,Male,4,218888,10/8/2020,Udara
+783,Influenza Death (<65 years of age),Jawa Barat,Male,1,67714,8/29/2024,Udara
+784,Influenza Death (<65 years of age),Gorontalo,Male,2,48436,11/1/2022,Udara
+785,Influenza Death (<65 years of age),Maluku Utara,Female,1,49633,10/1/2021,Udara
+786,Influenza Death (<65 years of age),Aceh,Male,30,1486067,12/19/2022,Udara
+787,Influenza Death (<65 years of age),Sumatera Barat,Male,1,1492384,7/8/2018,Udara
+788,Influenza Death (<65 years of age),Riau,Female,1,1539616,11/22/2020,Udara
+789,Influenza Death (<65 years of age),Kepulauan Riau,Male,6,1506897,11/4/2023,Udara
+790,Influenza Death (<65 years of age),Jambi,Female,4,1553184,10/17/2023,Udara
+791,Influenza Death (<65 years of age),Bengkulu,Male,5,1533252,5/9/2020,Udara
+792,Influenza Death (<65 years of age),Lampung,Female,3,175968,6/4/2020,Udara
+793,Influenza Death (<65 years of age),Bangka Belitung,Male,1,168120,10/9/2022,Udara
+794,Influenza Death (<65 years of age),Nusa Tenggara Barat,Female,1,189110,12/15/2019,Udara
+795,Influenza Death (<65 years of age),Sulawesi Barat,Female,19,1084974,10/16/2018,Udara
+796,Influenza Death (<65 years of age),Papua Barat,Female,9,1137546,5/21/2020,Udara
+797,Influenza Death (<65 years of age),Aceh,Female,10,1152765,4/26/2021,Udara
+798,Influenza Death (<65 years of age),Sumatera Utara,Male,10,1142533,6/14/2019,Udara
+799,Influenza Death (<65 years of age),Riau,Male,10,691550,8/5/2021,Udara
+800,Influenza Death (<65 years of age),Sumatera Selatan,Female,4,729502,5/13/2018,Udara
+801,Influenza Death (<65 years of age),Bengkulu,Male,3,700858,11/21/2019,Udara
+802,Influenza Death (<65 years of age),Bangka Belitung,Male,11,708862,8/26/2024,Udara
+803,Influenza Death (<65 years of age),DKI Jakarta,Female,10,744045,12/5/2023,Udara
+804,Influenza Death (<65 years of age),Gorontalo,Male,4,1020808,4/29/2020,Udara
+805,Influenza Death (<65 years of age),Sulawesi Barat,Female,2,1037268,12/4/2020,Udara
+806,Influenza Death (<65 years of age),Maluku,Male,11,1026599,12/28/2019,Udara
+807,Influenza Death (<65 years of age),Jawa Timur,Male,22,1546121,5/20/2023,Udara
+808,Influenza Death (<65 years of age),Jawa Timur,Male,2,1562326,12/10/2019,Udara
+809,Influenza Death (<65 years of age),Jawa Timur,Female,6,1551409,11/18/2022,Udara
+810,Influenza Death (<65 years of age),Jawa Timur,Female,1,1565261,4/6/2022,Udara
+811,Influenza Death (<65 years of age),Jawa Timur,Male,5,1588115,10/22/2018,Udara
+812,Influenza Death (<65 years of age),Jawa Timur,Female,9,1576787,4/22/2021,Udara
+813,Influenza Death (<65 years of age),Jawa Timur,Male,22,1617219,9/24/2021,Udara
+814,Influenza Death (<65 years of age),Papua,Male,1,406809,10/12/2018,Udara
+815,Influenza Death (<65 years of age),Sumatera Utara,Male,1,413541,12/26/2023,Udara
+816,Influenza Death (<65 years of age),Riau,Male,3,421691,8/11/2020,Udara
+817,Influenza Death (<65 years of age),Kepulauan Riau,Female,2,412902,10/14/2023,Udara
+818,Influenza Death (<65 years of age),Sumatera Selatan,Male,1,338975,5/29/2019,Udara
+819,Influenza Death (<65 years of age),Jawa Barat,Female,1,352410,12/26/2021,Udara
+820,Influenza Death (<65 years of age),Jawa Timur,Female,4,356979,12/5/2018,Udara
+821,Influenza Death (<65 years of age),DI Yogyakarta,Male,4,354818,12/10/2019,Udara
+822,Influenza Death (<65 years of age),Kalimantan Utara,Male,1,140021,9/19/2022,Udara
+823,Influenza Death (<65 years of age),Sulawesi Utara,Female,6,363936,10/14/2020,Udara
+824,Influenza Death (<65 years of age),Sulawesi Tengah,Male,5,352328,10/30/2022,Udara
+825,Influenza Death (<65 years of age),Sulawesi Barat,Female,2,377244,11/16/2018,Udara
+826,Influenza Death (<65 years of age),Maluku,Male,3,365012,7/21/2022,Udara
+827,Influenza Death (<65 years of age),Maluku Utara,Male,1,368089,5/12/2023,Udara
+828,Influenza Death (<65 years of age),Riau,Male,2,217146,4/25/2018,Udara
+829,Influenza Death (<65 years of age),Kepulauan Riau,Female,9,882602,9/26/2022,Udara
+830,Influenza Death (<65 years of age),Sumatera Selatan,Female,2,900923,12/8/2024,Udara
+831,Influenza Death (<65 years of age),Jawa Tengah,Male,7,938235,7/29/2023,Udara
+832,Influenza Death (<65 years of age),Nusa Tenggara Timur,Male,2,132529,10/9/2023,Udara
+833,Influenza Death (<65 years of age),Kalimantan Tengah,Male,2,135323,12/20/2023,Udara
+834,Influenza Death (<65 years of age),Kalimantan Timur,Male,3,135901,10/8/2022,Udara
+835,Influenza Death (<65 years of age),Maluku,Male,1,87901,8/25/2019,Udara
+836,Influenza Death (<65 years of age),Kalimantan Barat,Female,3,206166,6/1/2023,Udara
+837,Influenza Death (<65 years of age),Sulawesi Tenggara,Female,1,243970,4/20/2024,Udara
+838,Influenza Death (<65 years of age),Gorontalo,Male,6,236628,12/19/2022,Udara
+839,Influenza Death (<65 years of age),Maluku Utara,Female,1,247231,7/16/2019,Udara
+840,Influenza Death (<65 years of age),Sumatera Utara,Female,1,249602,8/28/2022,Udara
+841,Influenza Death (<65 years of age),Sumatera Barat,Male,1,242017,10/13/2021,Udara
+842,Influenza Death (<65 years of age),Riau,Female,4,251616,11/18/2022,Udara
+843,Influenza Death (<65 years of age),Jambi,Male,4,253256,9/28/2021,Udara
+844,Influenza Death (<65 years of age),Lampung,Female,2,261726,11/24/2018,Udara
+845,Influenza Death (<65 years of age),Bangka Belitung,Male,1,256452,5/17/2021,Udara
+846,Influenza Death (<65 years of age),Jawa Timur,Female,5,267560,6/10/2024,Udara
+847,Influenza Death (<65 years of age),Kalimantan Selatan,Male,1,31425,7/15/2022,Udara
+848,Influenza Death (<65 years of age),Jawa Barat,Female,1,223390,4/25/2023,Udara
+849,Influenza Death (<65 years of age),Jawa Tengah,Male,1,224201,4/24/2024,Udara
+850,Influenza Death (<65 years of age),Banten,Male,1,228149,5/7/2023,Udara
+851,Influenza Death (<65 years of age),Bali,Female,1,229092,12/14/2019,Udara
+852,Influenza Death (<65 years of age),Nusa Tenggara Barat,Male,2,230084,5/7/2018,Udara
+853,Influenza Death (<65 years of age),Sulawesi Barat,Female,3,411541,5/22/2022,Udara
+854,Influenza Death (<65 years of age),Maluku,Male,6,407005,10/21/2024,Udara
+855,Influenza Death (<65 years of age),Aceh,Male,2,412493,12/23/2020,Udara
+856,Influenza Death (<65 years of age),Sumatera Utara,Female,1,419032,12/24/2023,Udara
+857,Influenza Death (<65 years of age),Kepulauan Riau,Male,1,417301,9/12/2024,Udara
+858,Influenza Death (<65 years of age),Jambi,Female,1,424467,4/24/2020,Udara
+859,Influenza Death (<65 years of age),Sumatera Selatan,Male,2,419792,4/14/2023,Udara
+860,Influenza Death (<65 years of age),Bengkulu,Female,2,102303,5/12/2019,Udara
+861,Influenza Death (<65 years of age),Lampung,Male,1,97394,12/1/2023,Udara
+862,Malaria,Sumatera Utara,Male,2,67922,10/13/2024,Gigitan Serangga
+863,Malaria,Riau,Male,1,67887,12/28/2019,Gigitan Serangga
+864,Malaria,Lampung,Male,1,79736,11/18/2023,Gigitan Serangga
+865,Malaria,DKI Jakarta,Male,2,81531,10/14/2020,Gigitan Serangga
+866,Malaria,Jawa Barat,Female,59,17340743,9/18/2021,Gigitan Serangga
+867,Malaria,Jawa Barat,Male,115,17174034,9/10/2019,Gigitan Serangga
+868,Malaria,Jawa Barat,Female,62,17555714,12/27/2020,Gigitan Serangga
+869,Malaria,Jawa Barat,Male,113,17384620,10/23/2018,Gigitan Serangga
+870,Malaria,Jawa Barat,Male,110,17607062,9/21/2022,Gigitan Serangga
+871,Malaria,Jawa Barat,Female,59,17969405,12/8/2022,Gigitan Serangga
+872,Malaria,Jawa Barat,Male,99,17785422,11/11/2023,Gigitan Serangga
+873,Malaria,Jawa Barat,Female,54,18088355,12/17/2023,Gigitan Serangga
+874,Malaria,Jawa Barat,Female,48,18220429,12/22/2021,Gigitan Serangga
+875,Malaria,Jawa Barat,Female,44,18373955,12/23/2018,Gigitan Serangga
+876,Malaria,Jawa Barat,Female,58,18526603,11/7/2024,Gigitan Serangga
+877,Malaria,Jawa Barat,Male,66,18331667,9/26/2020,Gigitan Serangga
+878,Malaria,Jawa Barat,Female,46,18634031,12/13/2018,Gigitan Serangga
+879,Malaria,Jawa Barat,Male,79,18445222,11/15/2024,Gigitan Serangga
+880,Malaria,Jawa Barat,Male,67,18691131,9/12/2024,Gigitan Serangga
+881,Malaria,Jawa Barat,Female,36,19028077,10/23/2021,Gigitan Serangga
+882,Malaria,Jawa Barat,Male,66,18841496,11/12/2019,Gigitan Serangga
+883,Malaria,Jawa Barat,Female,35,19346905,10/22/2019,Gigitan Serangga
+884,Malaria,Jawa Barat,Male,57,19154588,10/17/2022,Gigitan Serangga
+885,Malaria,Kepulauan Riau,Female,2,746829,11/25/2020,Gigitan Serangga
+886,Malaria,Jambi,Male,13,719209,9/19/2018,Gigitan Serangga
+887,Malaria,Sumatera Selatan,Female,10,748222,9/8/2024,Gigitan Serangga
+888,Malaria,Bengkulu,Male,17,720721,9/28/2022,Gigitan Serangga
+889,Malaria,Bangka Belitung,Female,1,746959,10/11/2020,Gigitan Serangga
+890,Malaria,DKI Jakarta,Male,9,719059,10/21/2024,Gigitan Serangga
+891,Malaria,Jawa Barat,Female,11,744115,10/11/2021,Gigitan Serangga
+892,Malaria,Jawa Tengah,Male,7,716243,12/17/2022,Gigitan Serangga
+893,Malaria,Jawa Timur,Female,2,746698,12/26/2019,Gigitan Serangga
+894,Malaria,DI Yogyakarta,Female,7,752546,11/4/2024,Gigitan Serangga
+895,Malaria,Banten,Male,14,724347,9/22/2019,Gigitan Serangga
+896,Malaria,Bali,Male,8,731907,10/29/2018,Gigitan Serangga
+897,Malaria,Nusa Tenggara Barat,Female,7,765992,10/18/2021,Gigitan Serangga
+898,Malaria,Nusa Tenggara Timur,Male,5,738333,10/14/2022,Gigitan Serangga
+899,Malaria,Kalimantan Barat,Female,3,771369,12/13/2024,Gigitan Serangga
+900,Malaria,Kalimantan Tengah,Male,9,742365,9/23/2022,Gigitan Serangga
+901,Malaria,Kalimantan Selatan,Female,4,777894,9/9/2019,Gigitan Serangga
+902,Malaria,Kalimantan Timur,Male,9,748844,9/18/2020,Gigitan Serangga
+903,Malaria,Kalimantan Utara,Female,3,808612,11/1/2023,Gigitan Serangga
+904,Malaria,Sulawesi Utara,Male,6,775895,10/14/2024,Gigitan Serangga
+905,Malaria,DKI Jakarta,Male,1,104466,11/15/2021,Gigitan Serangga
+906,Malaria,Jawa Tengah,Male,1,105281,10/16/2020,Gigitan Serangga
+907,Malaria,Kalimantan Utara,Male,1,109194,11/1/2024,Gigitan Serangga
+908,Malaria,Sulawesi Barat,Male,1,20983,10/17/2022,Gigitan Serangga
+909,Malaria,Maluku Utara,Male,1,21531,10/6/2024,Gigitan Serangga
+910,Malaria,Kepulauan Riau,Female,1,22797,11/18/2022,Gigitan Serangga
+911,Malaria,DKI Jakarta,Male,1,22455,11/24/2019,Gigitan Serangga
+912,Malaria,Sumatera Barat,Female,2,497442,12/18/2018,Gigitan Serangga
+913,Malaria,Riau,Female,2,501572,11/1/2022,Gigitan Serangga
+914,Malaria,Kepulauan Riau,Male,2,477223,10/7/2023,Gigitan Serangga
+915,Malaria,Jambi,Female,2,507028,11/27/2020,Gigitan Serangga
+916,Malaria,Sumatera Selatan,Male,3,482677,9/19/2020,Gigitan Serangga
+917,Malaria,Bengkulu,Female,3,511239,9/14/2022,Gigitan Serangga
+918,Malaria,Lampung,Female,2,514168,10/3/2021,Gigitan Serangga
+919,Malaria,Bangka Belitung,Male,4,490062,12/8/2019,Gigitan Serangga
+920,Malaria,DKI Jakarta,Female,2,517107,11/7/2023,Gigitan Serangga
+921,Malaria,Jawa Barat,Male,3,492997,10/31/2021,Gigitan Serangga
+922,Malaria,Jawa Tengah,Female,3,522750,12/29/2018,Gigitan Serangga
+923,Malaria,Jawa Timur,Female,3,528831,11/11/2024,Gigitan Serangga
+924,Malaria,DI Yogyakarta,Male,2,504461,12/15/2021,Gigitan Serangga
+925,Malaria,Banten,Female,4,533877,11/19/2020,Gigitan Serangga
+926,Malaria,Bali,Male,5,509624,9/30/2022,Gigitan Serangga
+927,Malaria,Nusa Tenggara Barat,Female,1,539100,10/29/2018,Gigitan Serangga
+928,Malaria,Nusa Tenggara Timur,Male,2,513099,11/1/2019,Gigitan Serangga
+929,Malaria,Kalimantan Barat,Female,3,543641,10/25/2024,Gigitan Serangga
+930,Malaria,Kalimantan Tengah,Male,2,517556,12/8/2024,Gigitan Serangga
+931,Malaria,Kalimantan Selatan,Male,2,521520,10/4/2018,Gigitan Serangga
+932,Malaria,Kalimantan Timur,Female,2,554275,10/27/2023,Gigitan Serangga
+933,Malaria,Kalimantan Utara,Male,3,527673,9/17/2021,Gigitan Serangga
+934,Malaria,Sulawesi Utara,Female,2,561929,11/9/2018,Gigitan Serangga
+935,Malaria,Sulawesi Tengah,Male,1,87604,11/2/2023,Gigitan Serangga
+936,Malaria,Jambi,Female,1,407172,12/26/2023,Gigitan Serangga
+937,Malaria,Sumatera Selatan,Male,1,407831,9/5/2023,Gigitan Serangga
+938,Malaria,Bangka Belitung,Female,2,423018,11/4/2022,Gigitan Serangga
+939,Malaria,Jawa Barat,Female,2,430198,11/4/2019,Gigitan Serangga
+940,Malaria,Jawa Timur,Male,1,435858,9/20/2024,Gigitan Serangga
+941,Malaria,DI Yogyakarta,Female,2,443403,10/25/2020,Gigitan Serangga
+942,Malaria,Nusa Tenggara Barat,Female,1,456755,12/10/2019,Gigitan Serangga
+943,Malaria,Nusa Tenggara Timur,Male,1,456484,11/15/2023,Gigitan Serangga
+944,Malaria,Kalimantan Tengah,Male,3,461948,9/13/2020,Gigitan Serangga
+945,Malaria,Kalimantan Selatan,Male,1,465785,11/22/2021,Gigitan Serangga
+946,Malaria,Kalimantan Utara,Female,3,474300,12/17/2021,Gigitan Serangga
+947,Malaria,Sulawesi Utara,Male,1,474153,12/10/2018,Gigitan Serangga
+948,Malaria,Papua,Male,1,13746,12/10/2024,Gigitan Serangga
+949,Malaria,Banten,Male,1,63195,9/9/2024,Gigitan Serangga
+950,Malaria,Nusa Tenggara Barat,Female,1,65437,10/15/2021,Gigitan Serangga
+951,Malaria,Kalimantan Selatan,Male,1,65594,9/30/2024,Gigitan Serangga
+952,Malaria,Kalimantan Timur,Female,1,66298,9/5/2021,Gigitan Serangga
+953,Malaria,Sulawesi Utara,Female,1,66424,12/30/2024,Gigitan Serangga
+954,Malaria,Sulawesi Tenggara,Female,4,1006099,10/31/2018,Gigitan Serangga
+955,Malaria,Gorontalo,Male,4,996552,12/10/2024,Gigitan Serangga
+956,Malaria,Maluku Utara,Female,2,1015718,12/9/2023,Gigitan Serangga
+957,Malaria,Papua,Male,1,1006601,11/2/2022,Gigitan Serangga
+958,Malaria,Papua Barat,Male,2,1013224,11/24/2018,Gigitan Serangga
+959,Malaria,Aceh,Female,1,1032269,9/28/2021,Gigitan Serangga
+960,Malaria,Sumatera Utara,Male,1,1026599,10/29/2018,Gigitan Serangga
+961,Malaria,Sumatera Barat,Female,3,1041988,11/8/2023,Gigitan Serangga
+962,Malaria,Riau,Male,2,1032092,10/20/2022,Gigitan Serangga
+963,Malaria,Kepulauan Riau,Female,1,1050698,12/29/2018,Gigitan Serangga
+964,Malaria,Jambi,Male,2,1040920,9/17/2021,Gigitan Serangga
+965,Malaria,Jawa Timur,Female,4,1428113,12/22/2018,Gigitan Serangga
+966,Malaria,Jawa Timur,Female,1,1448213,12/20/2018,Gigitan Serangga
+967,Malaria,Jawa Timur,Male,7,1462232,9/12/2018,Gigitan Serangga
+968,Malaria,Jawa Tengah,Female,1,86637,9/13/2018,Gigitan Serangga
+969,Malaria,Bali,Male,1,93031,10/31/2022,Gigitan Serangga
+970,Malaria,Aceh,Female,1,330250,10/5/2023,Gigitan Serangga
+971,Malaria,Sumatera Barat,Male,2,358301,12/26/2019,Gigitan Serangga
+972,Malaria,Riau,Female,1,348293,10/30/2024,Gigitan Serangga
+973,Malaria,Sumatera Selatan,Male,1,381193,12/22/2024,Gigitan Serangga
+974,Malaria,Bengkulu,Female,1,369284,9/23/2021,Gigitan Serangga
+975,Malaria,DKI Jakarta,Male,2,415435,10/4/2022,Gigitan Serangga
+976,Malaria,Jawa Tengah,Male,2,422667,11/11/2023,Gigitan Serangga
+977,Malaria,DI Yogyakarta,Male,1,428435,10/10/2022,Gigitan Serangga
+978,Malaria,Banten,Female,2,404512,10/14/2021,Gigitan Serangga
+979,Malaria,Kalimantan Tengah,Male,1,444012,11/15/2018,Gigitan Serangga
+980,Malaria,Kalimantan Selatan,Female,1,416808,10/4/2022,Gigitan Serangga
+981,Malaria,Maluku,Female,1,61768,12/25/2024,Gigitan Serangga
+982,Malaria,Jambi,Male,1,86475,10/7/2023,Gigitan Serangga
+983,Malaria,Sumatera Selatan,Female,1,65733,9/9/2023,Gigitan Serangga
+984,Malaria,DKI Jakarta,Female,19,4880972,11/9/2019,Gigitan Serangga
+985,Malaria,DKI Jakarta,Male,26,4756384,9/12/2018,Gigitan Serangga
+986,Malaria,DKI Jakarta,Female,12,4925059,9/23/2022,Gigitan Serangga
+987,Malaria,DKI Jakarta,Female,22,4960444,9/10/2018,Gigitan Serangga
+988,Malaria,DKI Jakarta,Male,38,4832160,9/10/2018,Gigitan Serangga
+989,Malaria,DKI Jakarta,Female,18,4977473,12/2/2021,Gigitan Serangga
+990,Malaria,DKI Jakarta,Male,37,4846619,12/12/2020,Gigitan Serangga
+991,Malaria,DKI Jakarta,Female,13,4971912,9/22/2024,Gigitan Serangga
+992,Malaria,DKI Jakarta,Male,37,4839224,9/2/2023,Gigitan Serangga
+993,Malaria,DKI Jakarta,Female,13,4961211,9/19/2018,Gigitan Serangga
+994,Malaria,DKI Jakarta,Female,8,4955000,11/30/2018,Gigitan Serangga
+995,Malaria,DKI Jakarta,Male,18,4820448,9/17/2024,Gigitan Serangga
+996,Malaria,DKI Jakarta,Male,16,4831902,10/26/2021,Gigitan Serangga
+997,Malaria,DKI Jakarta,Female,10,4969936,11/21/2024,Gigitan Serangga
+998,Malaria,DKI Jakarta,Female,13,4982072,10/1/2024,Gigitan Serangga
+999,Malaria,DKI Jakarta,Female,11,4999643,12/8/2018,Gigitan Serangga
+1000,Malaria,DKI Jakarta,Male,11,4864351,11/24/2021,Gigitan Serangga
+1001,Malaria,DKI Jakarta,Female,5,5040999,11/2/2022,Gigitan Serangga
+1002,Malaria,DKI Jakarta,Female,10,5073236,10/13/2019,Gigitan Serangga
+1003,Malaria,DKI Jakarta,Male,10,4941613,9/6/2020,Gigitan Serangga
+1004,Malaria,DKI Jakarta,Female,12,5099884,11/28/2019,Gigitan Serangga
+1005,Malaria,DKI Jakarta,Male,10,4970740,10/1/2019,Gigitan Serangga
+1006,Malaria,Riau,Male,1,122317,10/31/2018,Gigitan Serangga
+1007,Malaria,Kepulauan Riau,Female,1,125308,11/4/2022,Gigitan Serangga
+1008,Malaria,Jambi,Male,1,122074,11/3/2020,Gigitan Serangga
+1009,Malaria,Bengkulu,Male,2,122021,12/21/2024,Gigitan Serangga
+1010,Malaria,Lampung,Female,1,124972,12/11/2018,Gigitan Serangga
+1011,Malaria,Jawa Barat,Male,1,121710,10/4/2022,Gigitan Serangga
+1012,Malaria,Jawa Tengah,Female,1,125234,10/2/2022,Gigitan Serangga
+1013,Malaria,Jawa Timur,Male,1,122013,12/4/2021,Gigitan Serangga
+1014,Malaria,Bali,Male,3,123447,11/29/2019,Gigitan Serangga
+1015,Malaria,Kalimantan Barat,Female,1,129336,10/21/2024,Gigitan Serangga
+1016,Malaria,Kalimantan Tengah,Male,1,124946,9/4/2023,Gigitan Serangga
+1017,Malaria,Kalimantan Timur,Male,1,125648,9/5/2019,Gigitan Serangga
+1018,Malaria,Sulawesi Utara,Male,1,126591,11/8/2024,Gigitan Serangga
+1019,Malaria,Jawa Timur,Female,1,43658,9/14/2023,Gigitan Serangga
+1020,Malaria,Nusa Tenggara Barat,Male,2,43920,12/1/2023,Gigitan Serangga
+1021,Malaria,Kalimantan Timur,Female,1,43887,10/5/2020,Gigitan Serangga
+1022,Malaria,Kalimantan Utara,Male,1,43759,10/23/2021,Gigitan Serangga
+1023,Malaria,Sulawesi Utara,Female,1,43940,10/22/2021,Gigitan Serangga
+1024,Malaria,Sulawesi Tenggara,Male,1,43775,11/1/2020,Gigitan Serangga
+1025,Malaria,Gorontalo,Female,1,43822,11/27/2018,Gigitan Serangga
+1026,Malaria,Maluku,Female,1,43869,11/25/2023,Gigitan Serangga
+1027,Malaria,Aceh,Male,1,44468,12/4/2019,Gigitan Serangga
+1028,Malaria,DKI Jakarta,Female,1,125498,10/15/2018,Gigitan Serangga
+1029,Malaria,Bali,Female,1,129535,12/2/2019,Gigitan Serangga
+1030,Malaria,DI Yogyakarta,Female,1,6357,10/17/2023,Gigitan Serangga
+1031,Malaria,Papua,Male,1,210860,12/14/2019,Gigitan Serangga
+1032,Malaria,Jambi,Female,1,199794,9/2/2020,Gigitan Serangga
+1033,Malaria,Bengkulu,Female,1,201138,10/15/2019,Gigitan Serangga
+1034,Malaria,Lampung,Female,2,202106,10/22/2018,Gigitan Serangga
+1035,Malaria,Bangka Belitung,Male,1,214157,9/28/2020,Gigitan Serangga
+1036,Malaria,DKI Jakarta,Female,1,203882,12/18/2024,Gigitan Serangga
+1037,Malaria,DI Yogyakarta,Male,1,218152,11/30/2023,Gigitan Serangga
+1038,Malaria,Bali,Male,1,62979,12/23/2021,Gigitan Serangga
+1039,Malaria,Kalimantan Utara,Female,1,65504,12/1/2021,Gigitan Serangga
+1040,Malaria,Sulawesi Tengah,Male,3,65795,11/10/2020,Gigitan Serangga
+1041,Malaria,Maluku,Female,1,68095,12/25/2020,Gigitan Serangga
+1042,Malaria,Papua Barat,Male,1,69154,11/6/2018,Gigitan Serangga
+1043,Malaria,Jambi,Male,1,46207,12/8/2021,Gigitan Serangga
+1044,Malaria,Bangka Belitung,Male,1,47419,11/4/2018,Gigitan Serangga
+1045,Malaria,Kalimantan Barat,Male,1,48719,9/5/2021,Gigitan Serangga
+1046,Malaria,Kalimantan Selatan,Male,1,48772,10/10/2018,Gigitan Serangga
+1047,Malaria,Sulawesi Utara,Female,1,49484,11/1/2018,Gigitan Serangga
+1048,Malaria,Sulawesi Selatan,Male,1,48387,10/19/2019,Gigitan Serangga
+1049,Malaria,Sulawesi Barat,Female,3,1456262,12/2/2019,Gigitan Serangga
+1050,Malaria,Maluku,Male,9,1433646,11/7/2019,Gigitan Serangga
+1051,Malaria,Maluku Utara,Female,6,1469089,9/25/2021,Gigitan Serangga
+1052,Malaria,Papua,Male,12,1445349,11/1/2022,Gigitan Serangga
+1053,Malaria,Papua Barat,Female,1,1491828,9/6/2018,Gigitan Serangga
+1054,Malaria,Aceh,Female,3,1491355,11/6/2018,Gigitan Serangga
+1055,Malaria,Sumatera Utara,Male,5,1464078,11/22/2020,Gigitan Serangga
+1056,Malaria,Sumatera Barat,Female,2,1496600,10/13/2020,Gigitan Serangga
+1057,Malaria,Riau,Male,4,1469223,10/8/2018,Gigitan Serangga
+1058,Malaria,Kepulauan Riau,Female,1,1505158,11/30/2024,Gigitan Serangga
+1059,Malaria,Jambi,Male,4,1477630,11/3/2020,Gigitan Serangga
+1060,Malaria,Sumatera Selatan,Male,5,1486067,11/22/2018,Gigitan Serangga
+1061,Malaria,Bengkulu,Female,3,1524864,11/17/2022,Gigitan Serangga
+1062,Malaria,Bangka Belitung,Female,3,1539616,10/17/2018,Gigitan Serangga
+1063,Malaria,DKI Jakarta,Male,4,1506897,11/9/2022,Gigitan Serangga
+1064,Malaria,Jawa Barat,Female,2,1553184,11/20/2021,Gigitan Serangga
+1065,Malaria,Jawa Tengah,Male,4,1520356,9/18/2022,Gigitan Serangga
+1066,Malaria,Jawa Timur,Female,2,1566211,11/28/2024,Gigitan Serangga
+1067,Malaria,Banten,Male,2,1549421,10/23/2022,Gigitan Serangga
+1068,Malaria,Nusa Tenggara Barat,Male,1,129717,11/7/2021,Gigitan Serangga
+1069,Malaria,Kalimantan Utara,Male,2,148170,11/27/2019,Gigitan Serangga
+1070,Malaria,Maluku,Female,1,175968,10/13/2019,Gigitan Serangga
+1071,Malaria,Maluku Utara,Male,1,168120,11/9/2022,Gigitan Serangga
+1072,Malaria,Papua Barat,Female,1,182237,9/1/2022,Gigitan Serangga
+1073,Malaria,Aceh,Male,2,173963,10/28/2019,Gigitan Serangga
+1074,Malaria,Sumatera Utara,Female,1,184207,10/29/2020,Gigitan Serangga
+1075,Malaria,Riau,Male,1,178149,12/14/2023,Gigitan Serangga
+1076,Malaria,Kepulauan Riau,Female,1,189110,10/9/2019,Gigitan Serangga
+1077,Malaria,Jambi,Male,1,180616,10/30/2022,Gigitan Serangga
+1078,Malaria,Maluku Utara,Male,4,807987,12/26/2024,Gigitan Serangga
+1079,Malaria,Papua,Female,1,847762,10/23/2021,Gigitan Serangga
+1080,Malaria,Aceh,Female,4,932886,10/30/2024,Gigitan Serangga
+1081,Malaria,Sumatera Utara,Male,2,923993,10/21/2020,Gigitan Serangga
+1082,Malaria,Sumatera Barat,Female,1,972165,10/3/2019,Gigitan Serangga
+1083,Malaria,Riau,Male,1,962558,9/24/2021,Gigitan Serangga
+1084,Malaria,Kepulauan Riau,Female,1,1013839,9/19/2019,Gigitan Serangga
+1085,Malaria,Lampung,Male,2,1055790,12/28/2020,Gigitan Serangga
+1086,Malaria,Bangka Belitung,Female,2,1084974,12/1/2023,Gigitan Serangga
+1087,Malaria,DKI Jakarta,Female,5,1101193,10/8/2020,Gigitan Serangga
+1088,Malaria,Jawa Barat,Male,2,1090726,10/18/2019,Gigitan Serangga
+1089,Malaria,Jawa Tengah,Male,4,1104959,10/19/2022,Gigitan Serangga
+1090,Malaria,Jawa Timur,Female,1,1129673,11/11/2018,Gigitan Serangga
+1091,Malaria,DI Yogyakarta,Male,3,1119372,12/5/2020,Gigitan Serangga
+1092,Malaria,Banten,Female,2,1137546,9/17/2022,Gigitan Serangga
+1093,Malaria,Bali,Female,1,1152765,9/28/2019,Gigitan Serangga
+1094,Malaria,Nusa Tenggara Timur,Female,3,646848,12/18/2023,Gigitan Serangga
+1095,Malaria,Kalimantan Barat,Female,1,660747,12/7/2018,Gigitan Serangga
+1096,Malaria,Kalimantan Tengah,Female,1,674719,9/27/2023,Gigitan Serangga
+1097,Malaria,Kalimantan Selatan,Male,5,646244,12/5/2024,Gigitan Serangga
+1098,Malaria,Kalimantan Timur,Male,5,664649,12/11/2019,Gigitan Serangga
+1099,Malaria,Kalimantan Utara,Female,2,700564,12/5/2019,Gigitan Serangga
+1100,Malaria,Sulawesi Utara,Male,2,671711,9/25/2022,Gigitan Serangga
+1101,Malaria,Sulawesi Tengah,Female,3,708444,9/18/2019,Gigitan Serangga
+1102,Malaria,Sulawesi Selatan,Male,1,679642,10/21/2020,Gigitan Serangga
+1103,Malaria,Sulawesi Tenggara,Female,1,714913,10/9/2023,Gigitan Serangga
+1104,Malaria,Gorontalo,Male,3,686026,9/20/2020,Gigitan Serangga
+1105,Malaria,Sulawesi Barat,Female,2,719853,12/19/2024,Gigitan Serangga
+1106,Malaria,Maluku,Male,2,691550,10/17/2018,Gigitan Serangga
+1107,Malaria,Maluku Utara,Female,1,724678,12/2/2020,Gigitan Serangga
+1108,Malaria,Papua,Male,2,695577,10/2/2024,Gigitan Serangga
+1109,Malaria,Papua Barat,Male,4,700858,12/22/2019,Gigitan Serangga
+1110,Malaria,Aceh,Female,1,731575,11/18/2020,Gigitan Serangga
+1111,Malaria,Sumatera Utara,Male,4,703543,10/24/2024,Gigitan Serangga
+1112,Malaria,Riau,Male,2,708862,11/9/2018,Gigitan Serangga
+1113,Malaria,Kepulauan Riau,Female,1,744045,10/18/2021,Gigitan Serangga
+1114,Malaria,Jambi,Male,4,716435,10/14/2021,Gigitan Serangga
+1115,Malaria,Maluku,Female,1,885147,12/30/2021,Gigitan Serangga
+1116,Malaria,Maluku Utara,Male,4,878633,12/29/2024,Gigitan Serangga
+1117,Malaria,Papua,Male,7,897124,11/27/2023,Gigitan Serangga
+1118,Malaria,Papua Barat,Male,5,921065,9/9/2021,Gigitan Serangga
+1119,Malaria,Aceh,Female,1,954481,12/11/2023,Gigitan Serangga
+1120,Malaria,Sumatera Utara,Male,3,945729,9/1/2023,Gigitan Serangga
+1121,Malaria,Sumatera Barat,Female,5,975953,10/4/2019,Gigitan Serangga
+1122,Malaria,Riau,Male,4,966781,10/11/2019,Gigitan Serangga
+1123,Malaria,Jawa Timur,Female,2,1464994,11/12/2021,Gigitan Serangga
+1124,Malaria,Jawa Timur,Male,4,1478967,12/30/2023,Gigitan Serangga
+1125,Malaria,Jawa Timur,Female,4,1475094,10/21/2019,Gigitan Serangga
+1126,Malaria,Jawa Timur,Male,3,1488296,10/8/2023,Gigitan Serangga
+1127,Malaria,Jawa Timur,Female,1,1478773,12/24/2020,Gigitan Serangga
+1128,Malaria,Jawa Timur,Male,11,1491362,9/12/2022,Gigitan Serangga
+1129,Malaria,Jawa Timur,Male,14,1497920,10/27/2023,Gigitan Serangga
+1130,Malaria,Jawa Timur,Female,2,1500220,9/25/2018,Gigitan Serangga
+1131,Malaria,Jawa Timur,Male,5,1513945,12/22/2020,Gigitan Serangga
+1132,Malaria,Jawa Timur,Female,4,1518655,9/1/2019,Gigitan Serangga
+1133,Malaria,Jawa Timur,Female,6,1531512,9/7/2020,Gigitan Serangga
+1134,Malaria,Jawa Timur,Male,9,1546121,12/30/2018,Gigitan Serangga
+1135,Malaria,Jawa Timur,Female,3,1540578,12/25/2019,Gigitan Serangga
+1136,Malaria,Jawa Timur,Male,4,1562326,9/24/2019,Gigitan Serangga
+1137,Malaria,Jawa Timur,Male,6,1574325,9/6/2024,Gigitan Serangga
+1138,Malaria,Jawa Timur,Male,7,1588115,11/10/2021,Gigitan Serangga
+1139,Malaria,Jawa Timur,Female,5,1576787,12/6/2019,Gigitan Serangga
+1140,Malaria,Jawa Timur,Male,4,1599983,10/24/2024,Gigitan Serangga
+1141,Malaria,Jawa Timur,Female,3,1595079,10/20/2023,Gigitan Serangga
+1142,Malaria,Sulawesi Tengah,Female,3,384805,12/1/2020,Gigitan Serangga
+1143,Malaria,Sulawesi Tenggara,Female,4,385350,10/17/2018,Gigitan Serangga
+1144,Malaria,Gorontalo,Male,5,397905,12/7/2023,Gigitan Serangga
+1145,Malaria,Sulawesi Barat,Male,5,397227,12/7/2024,Gigitan Serangga
+1146,Malaria,Maluku,Female,6,384174,12/7/2021,Gigitan Serangga
+1147,Malaria,Maluku Utara,Male,5,396525,11/27/2021,Gigitan Serangga
+1148,Malaria,Papua,Female,1,383701,9/8/2023,Gigitan Serangga
+1149,Malaria,Papua Barat,Male,4,397484,12/3/2024,Gigitan Serangga
+1150,Malaria,Aceh,Female,1,389778,9/4/2018,Gigitan Serangga
+1151,Malaria,Sumatera Utara,Male,7,401556,10/18/2020,Gigitan Serangga
+1152,Malaria,Sumatera Barat,Female,2,393420,11/15/2022,Gigitan Serangga
+1153,Malaria,Riau,Male,2,405253,10/25/2024,Gigitan Serangga
+1154,Malaria,Kepulauan Riau,Female,1,394990,11/29/2019,Gigitan Serangga
+1155,Malaria,Jambi,Male,3,406809,11/15/2024,Gigitan Serangga
+1156,Malaria,Bengkulu,Male,2,410063,12/18/2021,Gigitan Serangga
+1157,Malaria,Lampung,Female,5,400054,9/9/2021,Gigitan Serangga
+1158,Malaria,Bangka Belitung,Male,1,413541,12/6/2019,Gigitan Serangga
+1159,Malaria,DKI Jakarta,Female,1,404740,10/20/2019,Gigitan Serangga
+1160,Malaria,Jawa Tengah,Female,1,409265,12/24/2024,Gigitan Serangga
+1161,Malaria,Jawa Timur,Male,3,421691,9/29/2018,Gigitan Serangga
+1162,Malaria,DI Yogyakarta,Female,4,412902,12/28/2019,Gigitan Serangga
+1163,Malaria,Banten,Male,3,424929,11/23/2018,Gigitan Serangga
+1164,Malaria,Bali,Male,2,293540,11/30/2024,Gigitan Serangga
+1165,Malaria,Kalimantan Utara,Male,3,324668,11/29/2023,Gigitan Serangga
+1166,Malaria,Sulawesi Utara,Female,1,331622,10/5/2023,Gigitan Serangga
+1167,Malaria,Sulawesi Tengah,Male,3,329263,11/5/2023,Gigitan Serangga
+1168,Malaria,Sulawesi Selatan,Female,1,336128,10/28/2019,Gigitan Serangga
+1169,Malaria,Sulawesi Tenggara,Male,3,333609,11/5/2024,Gigitan Serangga
+1170,Malaria,Gorontalo,Female,1,338923,9/3/2023,Gigitan Serangga
+1171,Malaria,Sulawesi Barat,Female,1,341446,9/10/2021,Gigitan Serangga
+1172,Malaria,Maluku,Male,1,338975,9/5/2023,Gigitan Serangga
+1173,Malaria,Aceh,Female,1,352410,12/4/2019,Gigitan Serangga
+1174,Malaria,Kepulauan Riau,Male,1,129193,9/29/2019,Gigitan Serangga
+1175,Malaria,Jawa Barat,Female,2,130093,12/23/2024,Gigitan Serangga
+1176,Malaria,Jawa Tengah,Female,2,131413,12/24/2022,Gigitan Serangga
+1177,Malaria,Jawa Timur,Female,1,131572,10/24/2021,Gigitan Serangga
+1178,Malaria,Nusa Tenggara Barat,Male,1,139193,9/4/2018,Gigitan Serangga
+1179,Malaria,Kalimantan Barat,Male,2,140021,9/19/2019,Gigitan Serangga
+1180,Malaria,Kalimantan Tengah,Female,1,359709,11/22/2022,Gigitan Serangga
+1181,Malaria,Kalimantan Selatan,Male,5,347751,10/30/2023,Gigitan Serangga
+1182,Malaria,Kalimantan Timur,Female,2,358384,11/28/2024,Gigitan Serangga
+1183,Malaria,Kalimantan Utara,Male,1,346513,12/7/2021,Gigitan Serangga
+1184,Malaria,Sulawesi Utara,Female,1,357397,11/2/2022,Gigitan Serangga
+1185,Malaria,Sulawesi Tengah,Male,2,345665,9/4/2021,Gigitan Serangga
+1186,Malaria,Sulawesi Tenggara,Female,2,355457,9/17/2023,Gigitan Serangga
+1187,Malaria,Gorontalo,Male,1,343820,10/15/2024,Gigitan Serangga
+1188,Malaria,Maluku,Male,3,343868,11/8/2024,Gigitan Serangga
+1189,Malaria,Papua,Male,1,346290,10/16/2022,Gigitan Serangga
+1190,Malaria,Sumatera Utara,Female,1,363936,10/24/2023,Gigitan Serangga
+1191,Malaria,Sumatera Barat,Male,2,352328,12/27/2019,Gigitan Serangga
+1192,Malaria,Lampung,Female,1,380349,9/13/2022,Gigitan Serangga
+1193,Malaria,DKI Jakarta,Female,2,201546,9/24/2020,Gigitan Serangga
+1194,Malaria,Jawa Barat,Female,1,202843,10/5/2020,Gigitan Serangga
+1195,Malaria,Jawa Tengah,Male,2,203289,9/24/2019,Gigitan Serangga
+1196,Malaria,Nusa Tenggara Barat,Male,1,206404,9/16/2021,Gigitan Serangga
+1197,Malaria,Nusa Tenggara Timur,Female,1,205752,10/2/2018,Gigitan Serangga
+1198,Malaria,Kalimantan Tengah,Male,1,209118,10/29/2021,Gigitan Serangga
+1199,Malaria,Sulawesi Tengah,Female,1,211814,10/22/2018,Gigitan Serangga
+1200,Malaria,Sulawesi Selatan,Male,1,213871,11/9/2024,Gigitan Serangga
+1201,Malaria,Gorontalo,Male,1,219367,12/10/2020,Gigitan Serangga
+1202,Malaria,Sulawesi Barat,Female,8,836732,11/26/2020,Gigitan Serangga
+1203,Malaria,Maluku,Male,12,856439,12/29/2023,Gigitan Serangga
+1204,Malaria,Maluku Utara,Female,13,837293,12/3/2024,Gigitan Serangga
+1205,Malaria,Papua,Male,11,855869,11/13/2021,Gigitan Serangga
+1206,Malaria,Papua Barat,Female,9,840509,10/2/2020,Gigitan Serangga
+1207,Malaria,Aceh,Male,12,856410,12/29/2021,Gigitan Serangga
+1208,Malaria,Sumatera Utara,Male,11,863494,9/8/2021,Gigitan Serangga
+1209,Malaria,Sumatera Barat,Female,4,862263,11/12/2024,Gigitan Serangga
+1210,Malaria,Riau,Male,10,874064,12/23/2018,Gigitan Serangga
+1211,Malaria,Kepulauan Riau,Male,7,885106,12/19/2022,Gigitan Serangga
+1212,Malaria,Jambi,Male,17,892288,11/22/2023,Gigitan Serangga
+1213,Malaria,Sumatera Selatan,Female,11,890176,10/3/2018,Gigitan Serangga
+1214,Malaria,Bengkulu,Male,13,896357,9/30/2023,Gigitan Serangga
+1215,Malaria,Lampung,Female,9,900923,11/13/2019,Gigitan Serangga
+1216,Malaria,Bangka Belitung,Male,6,906438,9/4/2020,Gigitan Serangga
+1217,Malaria,DKI Jakarta,Female,2,911248,10/15/2018,Gigitan Serangga
+1218,Malaria,Jawa Barat,Male,6,916065,10/4/2021,Gigitan Serangga
+1219,Malaria,Jawa Tengah,Female,5,924969,11/23/2018,Gigitan Serangga
+1220,Malaria,Jawa Timur,Male,8,928254,12/22/2019,Gigitan Serangga
+1221,Malaria,DI Yogyakarta,Female,2,936291,9/16/2021,Gigitan Serangga
+1222,Malaria,Kalimantan Tengah,Female,1,127593,9/24/2019,Gigitan Serangga
+1223,Malaria,Kalimantan Utara,Female,1,129047,11/17/2023,Gigitan Serangga
+1224,Malaria,Sulawesi Tengah,Female,1,130193,9/6/2023,Gigitan Serangga
+1225,Malaria,Sulawesi Selatan,Male,2,129680,9/19/2021,Gigitan Serangga
+1226,Malaria,Sulawesi Tenggara,Female,1,131177,10/17/2023,Gigitan Serangga
+1227,Malaria,Aceh,Male,1,134186,9/17/2023,Gigitan Serangga
+1228,Malaria,Jambi,Female,2,85413,10/15/2022,Gigitan Serangga
+1229,Malaria,Sumatera Selatan,Male,2,81621,9/5/2022,Gigitan Serangga
+1230,Malaria,DI Yogyakarta,Male,2,85947,10/7/2022,Gigitan Serangga
+1231,Malaria,Sulawesi Tengah,Male,2,87666,12/24/2018,Gigitan Serangga
+1232,Malaria,Papua,Male,1,22592,12/23/2019,Gigitan Serangga
+1233,Malaria,Bengkulu,Male,1,205052,9/2/2021,Gigitan Serangga
+1234,Malaria,Lampung,Male,1,206184,11/27/2024,Gigitan Serangga
+1235,Malaria,Jawa Timur,Male,2,206527,12/25/2021,Gigitan Serangga
+1236,Malaria,Banten,Male,1,206724,12/1/2022,Gigitan Serangga
+1237,Malaria,Kalimantan Utara,Male,1,210911,12/21/2018,Gigitan Serangga
+1238,Malaria,Sulawesi Selatan,Female,1,236637,9/21/2020,Gigitan Serangga
+1239,Malaria,Sulawesi Tenggara,Male,2,228786,12/29/2023,Gigitan Serangga
+1240,Malaria,Maluku Utara,Male,1,230188,12/7/2024,Gigitan Serangga
+1241,Malaria,Papua Barat,Male,1,230875,11/20/2018,Gigitan Serangga
+1242,Malaria,Aceh,Female,2,238835,10/14/2021,Gigitan Serangga
+1243,Malaria,Sumatera Utara,Male,2,232651,11/10/2024,Gigitan Serangga
+1244,Malaria,Jambi,Male,1,236628,10/24/2021,Gigitan Serangga
+1245,Malaria,Bengkulu,Female,1,247231,12/27/2018,Gigitan Serangga
+1246,Malaria,DKI Jakarta,Female,1,249602,9/26/2020,Gigitan Serangga
+1247,Malaria,Jawa Barat,Male,1,242017,12/27/2023,Gigitan Serangga
+1248,Malaria,Jawa Timur,Female,1,235061,11/28/2024,Gigitan Serangga
+1249,Malaria,Nusa Tenggara Timur,Female,1,248433,10/24/2023,Gigitan Serangga
+1250,Malaria,Kalimantan Timur,Female,1,254877,11/19/2019,Gigitan Serangga
+1251,Malaria,Kalimantan Utara,Male,1,248671,12/3/2019,Gigitan Serangga
+1252,Malaria,Gorontalo,Female,1,260328,9/28/2023,Gigitan Serangga
+1253,Malaria,Sulawesi Barat,Male,1,254855,9/22/2019,Gigitan Serangga
+1254,Malaria,Maluku,Female,2,261726,10/9/2023,Gigitan Serangga
+1255,Malaria,Riau,Male,1,262767,9/15/2018,Gigitan Serangga
+1256,Malaria,Sumatera Selatan,Female,1,42455,10/22/2020,Gigitan Serangga
+1257,Malaria,Banten,Female,1,47099,10/4/2024,Gigitan Serangga
+1258,Malaria,Bali,Female,1,47546,10/18/2021,Gigitan Serangga
+1259,Malaria,Nusa Tenggara Barat,Male,1,46826,11/29/2020,Gigitan Serangga
+1260,Malaria,Kalimantan Selatan,Female,1,48595,12/7/2023,Gigitan Serangga
+1261,Malaria,Kalimantan Timur,Female,3,48670,10/31/2021,Gigitan Serangga
+1262,Malaria,Sulawesi Utara,Female,1,48529,11/4/2022,Gigitan Serangga
+1263,Malaria,Maluku Utara,Male,1,28956,10/12/2023,Gigitan Serangga
+1264,Malaria,Papua,Female,1,29977,12/17/2019,Gigitan Serangga
+1265,Malaria,Sumatera Utara,Female,1,186935,12/4/2024,Gigitan Serangga
+1266,Malaria,Banten,Female,1,221174,10/27/2021,Gigitan Serangga
+1267,Malaria,Kalimantan Tengah,Male,1,228149,11/7/2018,Gigitan Serangga
+1268,Malaria,Sulawesi Utara,Female,1,26405,12/26/2018,Gigitan Serangga
+1269,Malaria,Lampung,Male,2,383073,10/30/2022,Gigitan Serangga
+1270,Malaria,Bangka Belitung,Female,1,391526,9/10/2019,Gigitan Serangga
+1271,Malaria,DKI Jakarta,Male,1,388368,10/2/2020,Gigitan Serangga
+1272,Malaria,Jawa Tengah,Male,1,393044,12/20/2023,Gigitan Serangga
+1273,Malaria,Banten,Male,1,396715,9/27/2019,Gigitan Serangga
+1274,Malaria,Kalimantan Barat,Male,1,400932,12/28/2018,Gigitan Serangga
+1275,Malaria,Kalimantan Selatan,Male,2,403799,11/3/2018,Gigitan Serangga
+1276,Malaria,Sulawesi Utara,Female,1,415220,12/12/2024,Gigitan Serangga
+1277,Malaria,Sulawesi Tenggara,Male,2,412493,12/18/2024,Gigitan Serangga
+1278,Malaria,Gorontalo,Female,1,419032,10/30/2022,Gigitan Serangga
+1279,Malaria,Sulawesi Barat,Male,2,414329,12/6/2024,Gigitan Serangga
+1280,Malaria,Maluku Utara,Male,1,417301,11/30/2021,Gigitan Serangga
+1281,Malaria,Papua,Female,1,424467,9/11/2021,Gigitan Serangga
+1282,Malaria,Aceh,Female,2,89655,12/27/2023,Gigitan Serangga
+1283,Malaria,Sumatera Barat,Male,2,87489,9/6/2023,Gigitan Serangga
+1284,Malaria,Kepulauan Riau,Female,1,95101,9/18/2018,Gigitan Serangga
+1285,Malaria,Jambi,Male,1,90606,11/14/2021,Gigitan Serangga
+1286,Malaria,Bengkulu,Male,2,91432,9/14/2024,Gigitan Serangga
+1287,Malaria,Lampung,Female,2,97772,9/23/2018,Gigitan Serangga
+1288,Malaria,Bali,Male,1,98833,11/28/2023,Gigitan Serangga
+1289,Malaria,Nusa Tenggara Barat,Female,1,105027,12/4/2023,Gigitan Serangga
+1290,Malaria,Kalimantan Tengah,Male,2,100538,11/30/2024,Gigitan Serangga
+1291,Malaria,Kalimantan Timur,Male,2,101047,11/10/2024,Gigitan Serangga
+1292,Malaria,Sumatera Barat,Female,1,35896,12/30/2023,Gigitan Serangga
+1293,Tuberculosis,Sumatera Utara,Male,1,22234,10/8/2020,Udara
+1294,Tuberculosis,Jawa Barat,Male,2029,17174034,6/13/2021,Udara
+1295,Tuberculosis,Jawa Barat,Female,1283,17555714,12/30/2021,Udara
+1296,Tuberculosis,Jawa Barat,Male,1786,17785422,4/30/2022,Udara
+1297,Tuberculosis,Jawa Barat,Female,1074,18373955,12/11/2024,Udara
+1298,Tuberculosis,Jawa Barat,Male,1657,18331667,12/30/2024,Udara
+1299,Tuberculosis,Jawa Barat,Male,1499,18445222,4/16/2021,Udara
+1300,Tuberculosis,Jawa Barat,Male,1376,18558691,12/23/2021,Udara
+1301,Tuberculosis,Jawa Barat,Male,1381,18691131,11/3/2023,Udara
+1302,Tuberculosis,Jawa Barat,Male,1322,18988773,7/11/2018,Udara
+1303,Tuberculosis,Jawa Tengah,Male,125,719209,5/31/2023,Udara
+1304,Tuberculosis,DI Yogyakarta,Male,122,720721,6/26/2020,Udara
+1305,Tuberculosis,Kalimantan Barat,Female,64,744115,8/2/2023,Udara
+1306,Tuberculosis,Kalimantan Selatan,Male,86,724347,9/3/2018,Udara
+1307,Tuberculosis,Kalimantan Utara,Female,59,765992,9/18/2019,Udara
+1308,Tuberculosis,Sulawesi Utara,Male,101,738333,9/10/2020,Udara
+1309,Tuberculosis,Sulawesi Selatan,Male,113,742365,7/20/2022,Udara
+1310,Tuberculosis,Sulawesi Tenggara,Female,52,777894,5/14/2020,Udara
+1311,Tuberculosis,Gorontalo,Female,64,784429,6/7/2020,Udara
+1312,Tuberculosis,Maluku,Female,42,797654,8/24/2018,Udara
+1313,Tuberculosis,Maluku Utara,Male,77,766363,6/25/2021,Udara
+1314,Tuberculosis,Papua,Male,63,775895,12/1/2023,Udara
+1315,Tuberculosis,Aceh,Female,1,16489,7/5/2019,Udara
+1316,Tuberculosis,Jambi,Male,4,103625,10/25/2018,Udara
+1317,Tuberculosis,Sumatera Selatan,Female,3,107746,9/18/2019,Udara
+1318,Tuberculosis,Bengkulu,Male,1,104466,4/5/2019,Udara
+1319,Tuberculosis,Lampung,Female,1,108417,12/18/2018,Udara
+1320,Tuberculosis,Jawa Tengah,Female,1,110027,10/13/2021,Udara
+1321,Tuberculosis,Jawa Timur,Female,1,110685,11/30/2021,Udara
+1322,Tuberculosis,DI Yogyakarta,Male,2,107800,5/15/2020,Udara
+1323,Tuberculosis,Banten,Female,1,111086,9/2/2020,Udara
+1324,Tuberculosis,Nusa Tenggara Timur,Female,2,111415,7/29/2024,Udara
+1325,Tuberculosis,Kalimantan Tengah,Female,1,111548,12/10/2018,Udara
+1326,Tuberculosis,Aceh,Female,1,22842,10/2/2018,Udara
+1327,Tuberculosis,DKI Jakarta,Male,1,22455,4/20/2020,Udara
+1328,Tuberculosis,Sulawesi Tengah,Male,1,10665,7/28/2023,Udara
+1329,Tuberculosis,Sulawesi Tenggara,Female,1,10363,8/9/2019,Udara
+1330,Tuberculosis,Maluku Utara,Male,2,11048,12/30/2021,Udara
+1331,Tuberculosis,Bangka Belitung,Male,36,477223,9/27/2022,Udara
+1332,Tuberculosis,Jawa Tengah,Male,33,490062,6/25/2020,Udara
+1333,Tuberculosis,Nusa Tenggara Barat,Male,50,504461,9/27/2020,Udara
+1334,Tuberculosis,Kalimantan Barat,Female,11,539100,12/25/2020,Udara
+1335,Tuberculosis,Kalimantan Tengah,Male,22,513099,6/19/2021,Udara
+1336,Tuberculosis,Kalimantan Selatan,Female,27,543641,10/11/2023,Udara
+1337,Tuberculosis,Kalimantan Timur,Male,33,517556,12/7/2024,Udara
+1338,Tuberculosis,Sulawesi Utara,Male,26,521520,12/4/2019,Udara
+1339,Tuberculosis,Sulawesi Tengah,Female,28,554275,9/13/2018,Udara
+1340,Tuberculosis,Maluku,Male,1,15418,5/27/2018,Udara
+1341,Tuberculosis,Sumatera Utara,Male,1,15641,12/7/2021,Udara
+1342,Tuberculosis,Sulawesi Utara,Male,3,85104,7/10/2018,Udara
+1343,Tuberculosis,Sulawesi Selatan,Male,3,86534,5/20/2018,Udara
+1344,Tuberculosis,Sulawesi Barat,Female,2,88622,10/10/2023,Udara
+1345,Tuberculosis,Maluku,Male,1,88573,4/5/2023,Udara
+1346,Tuberculosis,Maluku Utara,Female,1,89339,4/6/2023,Udara
+1347,Tuberculosis,Papua,Male,3,89260,5/23/2020,Udara
+1348,Tuberculosis,Papua Barat,Female,1,89876,12/28/2020,Udara
+1349,Tuberculosis,Sumatera Utara,Female,1,90414,12/12/2020,Udara
+1350,Tuberculosis,Riau,Male,2,90298,12/13/2019,Udara
+1351,Tuberculosis,Jambi,Male,1,91335,6/11/2024,Udara
+1352,Tuberculosis,Lampung,Male,2,91911,11/24/2022,Udara
+1353,Tuberculosis,Bangka Belitung,Female,33,407172,7/18/2023,Udara
+1354,Tuberculosis,DKI Jakarta,Male,64,407831,12/17/2022,Udara
+1355,Tuberculosis,Jawa Barat,Female,40,414207,12/16/2023,Udara
+1356,Tuberculosis,Jawa Timur,Female,51,423018,12/27/2019,Udara
+1357,Tuberculosis,DI Yogyakarta,Male,64,422899,10/19/2019,Udara
+1358,Tuberculosis,Banten,Female,46,430198,12/23/2021,Udara
+1359,Tuberculosis,Bali,Male,56,430028,12/6/2024,Udara
+1360,Tuberculosis,Nusa Tenggara Barat,Male,36,435858,5/22/2023,Udara
+1361,Tuberculosis,Nusa Tenggara Timur,Female,21,443403,7/15/2021,Udara
+1362,Tuberculosis,Kalimantan Tengah,Female,6,450080,12/31/2021,Udara
+1363,Tuberculosis,Kalimantan Selatan,Male,35,449746,8/4/2018,Udara
+1364,Tuberculosis,Kalimantan Timur,Female,31,456755,5/11/2023,Udara
+1365,Tuberculosis,Kalimantan Utara,Male,44,456484,12/23/2024,Udara
+1366,Tuberculosis,Maluku,Female,19,474300,7/13/2022,Udara
+1367,Tuberculosis,Maluku Utara,Male,15,474153,4/12/2024,Udara
+1368,Tuberculosis,Papua,Female,15,478477,5/1/2023,Udara
+1369,Tuberculosis,Papua Barat,Male,23,478490,12/21/2021,Udara
+1370,Tuberculosis,Aceh,Female,24,483695,10/27/2022,Udara
+1371,Tuberculosis,Sumatera Utara,Male,27,483796,8/4/2019,Udara
+1372,Tuberculosis,Sumatera Selatan,Female,2,13448,12/25/2019,Udara
+1373,Tuberculosis,Bengkulu,Male,1,13708,12/20/2023,Udara
+1374,Tuberculosis,Nusa Tenggara Timur,Female,2,14136,8/8/2023,Udara
+1375,Tuberculosis,Kalimantan Tengah,Male,1,14463,12/22/2021,Udara
+1376,Tuberculosis,Kalimantan Timur,Female,1,64153,12/25/2021,Udara
+1377,Tuberculosis,Sulawesi Utara,Female,1,64785,12/22/2024,Udara
+1378,Tuberculosis,Maluku,Female,1,66095,6/3/2019,Udara
+1379,Tuberculosis,Lampung,Female,1,66776,4/4/2020,Udara
+1380,Tuberculosis,Jawa Tengah,Female,6,69392,7/27/2021,Udara
+1381,Tuberculosis,Jawa Timur,Male,19,75334,10/21/2020,Udara
+1382,Tuberculosis,DI Yogyakarta,Female,8,70707,10/17/2019,Udara
+1383,Tuberculosis,Nusa Tenggara Barat,Male,16,79736,12/25/2019,Udara
+1384,Tuberculosis,Kalimantan Timur,Male,21,86048,10/2/2019,Udara
+1385,Tuberculosis,Kalimantan Utara,Male,13,87592,8/22/2022,Udara
+1386,Tuberculosis,Sulawesi Utara,Female,5,85187,7/11/2021,Udara
+1387,Tuberculosis,Sulawesi Selatan,Female,8,86637,12/27/2024,Udara
+1388,Tuberculosis,Gorontalo,Female,6,86982,12/5/2018,Udara
+1389,Tuberculosis,DKI Jakarta,Male,1,9186,5/27/2018,Udara
+1390,Tuberculosis,Kalimantan Utara,Female,7,330250,4/21/2021,Udara
+1391,Tuberculosis,Sulawesi Utara,Male,45,349424,7/19/2022,Udara
+1392,Tuberculosis,Sulawesi Tengah,Female,17,338203,6/15/2022,Udara
+1393,Tuberculosis,Sulawesi Tenggara,Female,12,348293,4/5/2020,Udara
+1394,Tuberculosis,Gorontalo,Male,35,369504,11/22/2021,Udara
+1395,Tuberculosis,Maluku,Male,24,381193,9/5/2021,Udara
+1396,Tuberculosis,Maluku Utara,Female,11,369284,12/1/2021,Udara
+1397,Tuberculosis,Papua,Male,31,392688,10/26/2019,Udara
+1398,Tuberculosis,Papua Barat,Female,11,380855,10/27/2019,Udara
+1399,Tuberculosis,Aceh,Male,30,405365,6/25/2021,Udara
+1400,Tuberculosis,Sumatera Utara,Female,14,390363,4/25/2018,Udara
+1401,Tuberculosis,Sumatera Barat,Female,13,402699,10/3/2021,Udara
+1402,Tuberculosis,Riau,Female,13,404512,9/11/2019,Udara
+1403,Tuberculosis,Kepulauan Riau,Male,22,436646,9/3/2022,Udara
+1404,Tuberculosis,Sumatera Selatan,Male,24,440507,8/26/2022,Udara
+1405,Tuberculosis,Bengkulu,Female,13,411962,12/25/2022,Udara
+1406,Tuberculosis,Lampung,Male,21,444012,7/27/2020,Udara
+1407,Tuberculosis,Bangka Belitung,Female,14,420256,6/21/2023,Udara
+1408,Tuberculosis,Jawa Tengah,Female,2,57449,9/16/2024,Udara
+1409,Tuberculosis,Banten,Female,1,60889,11/13/2021,Udara
+1410,Tuberculosis,Nusa Tenggara Barat,Female,4,61768,12/4/2021,Udara
+1411,Tuberculosis,Kalimantan Tengah,Male,2,84480,12/30/2018,Udara
+1412,Tuberculosis,Sulawesi Utara,Male,4,86955,5/14/2023,Udara
+1413,Tuberculosis,Sulawesi Tengah,Male,1,86927,4/8/2023,Udara
+1414,Tuberculosis,Sulawesi Barat,Male,4,85952,4/14/2018,Udara
+1415,Tuberculosis,Maluku,Female,2,65236,6/27/2022,Udara
+1416,Tuberculosis,Maluku Utara,Female,2,65192,12/7/2021,Udara
+1417,Tuberculosis,Papua,Male,4,85315,4/9/2021,Udara
+1418,Tuberculosis,Papua Barat,Female,1,64992,12/13/2019,Udara
+1419,Tuberculosis,Aceh,Male,2,84796,5/24/2021,Udara
+1420,Tuberculosis,Sumatera Utara,Male,2,29796,12/15/2021,Udara
+1421,Tuberculosis,Sumatera Selatan,Male,2,31130,8/26/2024,Udara
+1422,Tuberculosis,Jawa Timur,Female,1,32161,5/15/2021,Udara
+1423,Tuberculosis,DI Yogyakarta,Male,1,32441,10/24/2023,Udara
+1424,Tuberculosis,Bali,Male,1,32201,11/7/2022,Udara
+1425,Tuberculosis,DKI Jakarta,Female,425,4880972,6/20/2023,Udara
+1426,Tuberculosis,DKI Jakarta,Male,662,4798953,4/7/2022,Udara
+1427,Tuberculosis,DKI Jakarta,Female,412,4960444,7/20/2024,Udara
+1428,Tuberculosis,DKI Jakarta,Male,611,4832160,9/19/2018,Udara
+1429,Tuberculosis,DKI Jakarta,Female,302,4969936,5/2/2020,Udara
+1430,Tuberculosis,DKI Jakarta,Male,447,4836848,8/12/2024,Udara
+1431,Tuberculosis,DKI Jakarta,Male,426,4844727,11/29/2019,Udara
+1432,Tuberculosis,DKI Jakarta,Male,425,4864351,9/18/2024,Udara
+1433,Tuberculosis,DKI Jakarta,Male,418,4907522,9/9/2018,Udara
+1434,Tuberculosis,Bengkulu,Female,5,65826,4/10/2022,Udara
+1435,Tuberculosis,DI Yogyakarta,Male,7,67240,6/19/2019,Udara
+1436,Tuberculosis,Bali,Male,3,68998,4/19/2021,Udara
+1437,Tuberculosis,Nusa Tenggara Timur,Male,7,71745,11/27/2023,Udara
+1438,Tuberculosis,Kalimantan Selatan,Female,6,78861,11/15/2024,Udara
+1439,Tuberculosis,Kalimantan Utara,Female,2,78409,5/21/2019,Udara
+1440,Tuberculosis,Sulawesi Utara,Male,8,72833,5/19/2018,Udara
+1441,Tuberculosis,Sulawesi Tenggara,Female,3,79988,4/21/2024,Udara
+1442,Tuberculosis,Maluku,Male,10,122317,12/10/2024,Udara
+1443,Tuberculosis,Maluku Utara,Female,3,125308,12/16/2022,Udara
+1444,Tuberculosis,Papua,Male,9,122074,12/16/2023,Udara
+1445,Tuberculosis,Aceh,Male,8,122021,4/16/2024,Udara
+1446,Tuberculosis,Sumatera Barat,Male,11,121712,11/21/2020,Udara
+1447,Tuberculosis,Kepulauan Riau,Male,5,121710,9/28/2021,Udara
+1448,Tuberculosis,Lampung,Male,5,122743,5/1/2023,Udara
+1449,Tuberculosis,Bangka Belitung,Female,2,126841,9/29/2020,Udara
+1450,Tuberculosis,DKI Jakarta,Male,4,123447,11/19/2020,Udara
+1451,Tuberculosis,Jawa Tengah,Male,6,123946,8/10/2019,Udara
+1452,Tuberculosis,Jawa Timur,Female,5,128397,11/12/2020,Udara
+1453,Tuberculosis,Nusa Tenggara Barat,Male,11,124940,9/14/2019,Udara
+1454,Tuberculosis,Kalimantan Barat,Male,10,125648,8/15/2024,Udara
+1455,Tuberculosis,Kalimantan Tengah,Female,3,131733,12/5/2023,Udara
+1456,Tuberculosis,Kalimantan Selatan,Male,6,126591,12/5/2018,Udara
+1457,Tuberculosis,DKI Jakarta,Female,1,43658,8/4/2024,Udara
+1458,Tuberculosis,Jawa Timur,Male,4,43667,7/5/2019,Udara
+1459,Tuberculosis,DI Yogyakarta,Female,3,44097,12/30/2022,Udara
+1460,Tuberculosis,Bali,Male,1,44034,5/26/2024,Udara
+1461,Tuberculosis,Nusa Tenggara Timur,Female,1,43894,6/8/2020,Udara
+1462,Tuberculosis,Kalimantan Tengah,Male,1,43759,12/15/2022,Udara
+1463,Tuberculosis,Kalimantan Selatan,Male,4,43842,12/23/2022,Udara
+1464,Tuberculosis,Kalimantan Timur,Male,3,43775,12/9/2018,Udara
+1465,Tuberculosis,Sulawesi Utara,Female,2,43869,12/3/2020,Udara
+1466,Tuberculosis,Sulawesi Selatan,Female,2,44115,12/21/2023,Udara
+1467,Tuberculosis,Maluku,Female,1,44077,12/15/2020,Udara
+1468,Tuberculosis,Papua Barat,Male,10,108541,4/11/2023,Udara
+1469,Tuberculosis,Aceh,Male,8,111322,4/22/2019,Udara
+1470,Tuberculosis,Sumatera Barat,Male,9,114624,8/6/2024,Udara
+1471,Tuberculosis,Kepulauan Riau,Male,5,117878,7/4/2019,Udara
+1472,Tuberculosis,Sumatera Selatan,Male,5,120483,12/5/2019,Udara
+1473,Tuberculosis,Bengkulu,Female,1,122487,11/17/2024,Udara
+1474,Tuberculosis,Lampung,Male,8,123068,11/22/2020,Udara
+1475,Tuberculosis,Bangka Belitung,Female,2,124354,7/15/2022,Udara
+1476,Tuberculosis,DI Yogyakarta,Female,2,127004,7/8/2021,Udara
+1477,Tuberculosis,Nusa Tenggara Barat,Female,13,129535,12/24/2020,Udara
+1478,Tuberculosis,Nusa Tenggara Timur,Male,6,131467,10/15/2020,Udara
+1479,Tuberculosis,Kalimantan Tengah,Female,3,131577,11/17/2018,Udara
+1480,Tuberculosis,Kalimantan Selatan,Male,3,133492,6/14/2018,Udara
+1481,Tuberculosis,Aceh,Female,15,196311,5/4/2022,Udara
+1482,Tuberculosis,Sumatera Barat,Female,10,197739,9/21/2024,Udara
+1483,Tuberculosis,Riau,Male,14,210860,12/15/2018,Udara
+1484,Tuberculosis,Bangka Belitung,Male,21,209838,12/31/2020,Udara
+1485,Tuberculosis,Jawa Tengah,Female,9,198192,12/31/2019,Udara
+1486,Tuberculosis,Jawa Timur,Male,13,209704,5/16/2019,Udara
+1487,Tuberculosis,DI Yogyakarta,Female,6,199794,10/20/2022,Udara
+1488,Tuberculosis,Banten,Female,9,201138,7/3/2019,Udara
+1489,Tuberculosis,Nusa Tenggara Timur,Male,11,214157,6/18/2020,Udara
+1490,Tuberculosis,Kalimantan Barat,Male,14,216023,4/14/2024,Udara
+1491,Tuberculosis,Kalimantan Tengah,Female,10,204592,8/5/2023,Udara
+1492,Tuberculosis,Kalimantan Selatan,Male,8,216873,8/20/2018,Udara
+1493,Tuberculosis,Sulawesi Utara,Male,8,218888,8/21/2022,Udara
+1494,Tuberculosis,Sulawesi Selatan,Male,2,62979,8/15/2019,Udara
+1495,Tuberculosis,Sulawesi Tenggara,Female,1,64104,10/23/2021,Udara
+1496,Tuberculosis,Gorontalo,Female,4,64875,10/30/2018,Udara
+1497,Tuberculosis,Papua,Female,1,65504,9/15/2018,Udara
+1498,Tuberculosis,Aceh,Female,1,66125,4/27/2023,Udara
+1499,Tuberculosis,Sumatera Barat,Female,4,66731,7/20/2024,Udara
+1500,Tuberculosis,Riau,Female,1,67533,6/28/2024,Udara
+1501,Tuberculosis,Kepulauan Riau,Male,2,67253,12/26/2019,Udara
+1502,Tuberculosis,Sumatera Selatan,Male,5,68716,7/1/2018,Udara
+1503,Tuberculosis,Bengkulu,Female,1,68499,9/12/2021,Udara
+1504,Tuberculosis,Lampung,Male,5,69154,4/20/2020,Udara
+1505,Tuberculosis,Bangka Belitung,Male,1,69367,11/16/2023,Udara
+1506,Tuberculosis,DKI Jakarta,Female,2,69108,10/9/2020,Udara
+1507,Tuberculosis,Jawa Barat,Male,1,69824,6/26/2020,Udara
+1508,Tuberculosis,Jawa Tengah,Female,1,69855,12/27/2020,Udara
+1509,Tuberculosis,Jawa Timur,Male,2,70493,5/30/2018,Udara
+1510,Tuberculosis,Banten,Male,1,46207,4/6/2022,Udara
+1511,Tuberculosis,Nusa Tenggara Timur,Female,1,48555,6/11/2020,Udara
+1512,Tuberculosis,Kalimantan Timur,Female,2,49469,9/28/2021,Udara
+1513,Tuberculosis,Sulawesi Utara,Male,2,48600,7/25/2019,Udara
+1514,Tuberculosis,Gorontalo,Male,3,48843,8/19/2024,Udara
+1515,Tuberculosis,Papua,Female,1,49484,12/9/2019,Udara
+1516,Tuberculosis,Sumatera Utara,Female,112,1456262,7/13/2024,Udara
+1517,Tuberculosis,Sumatera Barat,Male,166,1433646,9/30/2024,Udara
+1518,Tuberculosis,Riau,Male,121,1445349,4/5/2018,Udara
+1519,Tuberculosis,Bengkulu,Male,146,1465323,9/25/2021,Udara
+1520,Tuberculosis,Lampung,Male,124,1464078,7/5/2024,Udara
+1521,Tuberculosis,Bangka Belitung,Female,90,1496600,12/25/2019,Udara
+1522,Tuberculosis,DKI Jakarta,Male,127,1469223,9/2/2022,Udara
+1523,Tuberculosis,Jawa Timur,Female,65,1512749,12/13/2021,Udara
+1524,Tuberculosis,DI Yogyakarta,Male,132,1486067,8/24/2020,Udara
+1525,Tuberculosis,Nusa Tenggara Barat,Male,109,1506897,4/4/2018,Udara
+1526,Tuberculosis,Kalimantan Selatan,Male,106,1533252,6/13/2019,Udara
+1527,Tuberculosis,Sulawesi Tengah,Male,1,135549,10/5/2024,Udara
+1528,Tuberculosis,Maluku,Female,2,159647,12/22/2023,Udara
+1529,Tuberculosis,Maluku Utara,Female,3,164667,9/18/2018,Udara
+1530,Tuberculosis,Papua,Male,3,157603,11/10/2020,Udara
+1531,Tuberculosis,Papua Barat,Female,10,168495,8/29/2019,Udara
+1532,Tuberculosis,Riau,Male,2,168120,11/3/2023,Udara
+1533,Tuberculosis,Jambi,Male,2,171058,5/16/2020,Udara
+1534,Tuberculosis,Sumatera Selatan,Female,4,182237,7/11/2020,Udara
+1535,Tuberculosis,Bangka Belitung,Female,1,186575,10/10/2021,Udara
+1536,Tuberculosis,DKI Jakarta,Male,5,178149,4/2/2024,Udara
+1537,Tuberculosis,Riau,Male,38,807987,11/30/2022,Udara
+1538,Tuberculosis,Kepulauan Riau,Female,25,847762,6/3/2021,Udara
+1539,Tuberculosis,Jambi,Male,43,840645,12/31/2019,Udara
+1540,Tuberculosis,Sumatera Selatan,Male,48,882158,6/27/2022,Udara
+1541,Tuberculosis,Lampung,Male,43,923993,6/29/2019,Udara
+1542,Tuberculosis,Bangka Belitung,Male,34,962558,6/10/2022,Udara
+1543,Tuberculosis,Jawa Barat,Female,20,1046767,4/28/2023,Udara
+1544,Tuberculosis,Jawa Timur,Female,34,1067130,10/1/2018,Udara
+1545,Tuberculosis,DI Yogyakarta,Female,28,1084974,7/12/2019,Udara
+1546,Tuberculosis,Nusa Tenggara Barat,Male,45,1090726,8/24/2018,Udara
+1547,Tuberculosis,Kalimantan Barat,Male,41,1104959,6/13/2023,Udara
+1548,Tuberculosis,Kalimantan Tengah,Male,36,1119372,9/12/2020,Udara
+1549,Tuberculosis,Kalimantan Timur,Female,62,646848,8/6/2022,Udara
+1550,Tuberculosis,Kalimantan Utara,Male,68,618919,12/29/2022,Udara
+1551,Tuberculosis,Sulawesi Utara,Female,41,660747,12/26/2019,Udara
+1552,Tuberculosis,Sulawesi Tenggara,Male,94,657036,11/19/2018,Udara
+1553,Tuberculosis,Sulawesi Barat,Male,79,664649,9/10/2020,Udara
+1554,Tuberculosis,Papua,Male,60,679642,8/11/2020,Udara
+1555,Tuberculosis,Papua Barat,Male,67,686026,5/10/2019,Udara
+1556,Tuberculosis,Sumatera Utara,Male,56,691550,4/20/2022,Udara
+1557,Tuberculosis,Jambi,Male,38,703543,4/10/2021,Udara
+1558,Tuberculosis,Bengkulu,Male,51,708862,4/2/2022,Udara
+1559,Tuberculosis,Lampung,Female,37,744045,8/25/2023,Udara
+1560,Tuberculosis,Jawa Barat,Female,3,27350,9/14/2018,Udara
+1561,Tuberculosis,DI Yogyakarta,Male,1,27961,5/13/2023,Udara
+1562,Tuberculosis,Bali,Male,1,27854,5/30/2022,Udara
+1563,Tuberculosis,Kalimantan Barat,Male,1,27576,11/14/2023,Udara
+1564,Tuberculosis,Kalimantan Timur,Female,1,27450,11/28/2018,Udara
+1565,Tuberculosis,Maluku,Male,1,28512,12/5/2020,Udara
+1566,Tuberculosis,Maluku Utara,Female,1,29124,6/5/2023,Udara
+1567,Tuberculosis,Papua Barat,Male,55,878633,12/22/2021,Udara
+1568,Tuberculosis,Riau,Male,44,945729,6/25/2018,Udara
+1569,Tuberculosis,Kepulauan Riau,Female,25,975953,11/27/2021,Udara
+1570,Tuberculosis,Jambi,Male,38,966781,10/31/2021,Udara
+1571,Tuberculosis,Lampung,Female,20,1006099,11/22/2023,Udara
+1572,Tuberculosis,Bangka Belitung,Male,39,996552,9/1/2021,Udara
+1573,Tuberculosis,Jawa Barat,Male,48,1003623,7/27/2018,Udara
+1574,Tuberculosis,Jawa Timur,Female,26,1025294,7/6/2021,Udara
+1575,Tuberculosis,DI Yogyakarta,Male,34,1013224,11/26/2018,Udara
+1576,Tuberculosis,Banten,Male,34,1020808,12/25/2023,Udara
+1577,Tuberculosis,Nusa Tenggara Barat,Male,38,1026599,9/25/2020,Udara
+1578,Tuberculosis,Nusa Tenggara Timur,Female,30,1041988,8/7/2023,Udara
+1579,Tuberculosis,Kalimantan Selatan,Male,31,1040920,12/25/2018,Udara
+1580,Tuberculosis,Jawa Timur,Female,127,1428113,11/14/2019,Udara
+1581,Tuberculosis,Jawa Timur,Female,129,1464994,12/28/2021,Udara
+1582,Tuberculosis,Jawa Timur,Male,197,1491362,12/24/2022,Udara
+1583,Tuberculosis,Jawa Timur,Female,104,1500220,5/7/2020,Udara
+1584,Tuberculosis,Jawa Timur,Female,99,1518655,7/31/2021,Udara
+1585,Tuberculosis,Jawa Timur,Male,138,1588115,6/5/2022,Udara
+1586,Tuberculosis,Jawa Timur,Female,73,1576787,4/21/2019,Udara
+1587,Tuberculosis,Kalimantan Timur,Female,67,384805,8/25/2022,Udara
+1588,Tuberculosis,Kalimantan Utara,Male,115,397418,12/31/2022,Udara
+1589,Tuberculosis,Sulawesi Utara,Male,98,397905,12/24/2018,Udara
+1590,Tuberculosis,Sulawesi Tenggara,Female,55,384174,9/20/2022,Udara
+1591,Tuberculosis,Gorontalo,Male,80,396525,12/1/2022,Udara
+1592,Tuberculosis,Papua Barat,Female,49,393420,12/6/2021,Udara
+1593,Tuberculosis,Sumatera Utara,Male,78,406809,12/7/2020,Udara
+1594,Tuberculosis,Bengkulu,Female,43,412902,6/10/2022,Udara
+1595,Tuberculosis,DKI Jakarta,Male,32,293540,6/28/2023,Udara
+1596,Tuberculosis,Jawa Barat,Female,22,302553,11/16/2022,Udara
+1597,Tuberculosis,Jawa Tengah,Male,30,300991,4/5/2023,Udara
+1598,Tuberculosis,Jawa Timur,Female,22,311549,8/1/2019,Udara
+1599,Tuberculosis,Bali,Male,40,318163,6/25/2020,Udara
+1600,Tuberculosis,Nusa Tenggara Barat,Male,40,324668,9/7/2018,Udara
+1601,Tuberculosis,Kalimantan Tengah,Male,32,333609,10/2/2021,Udara
+1602,Tuberculosis,Kalimantan Selatan,Female,21,338923,4/22/2018,Udara
+1603,Tuberculosis,Kalimantan Utara,Female,15,344584,8/15/2021,Udara
+1604,Tuberculosis,Sulawesi Tengah,Male,32,345146,6/22/2024,Udara
+1605,Tuberculosis,Sulawesi Tenggara,Male,29,347738,12/15/2019,Udara
+1606,Tuberculosis,Gorontalo,Male,26,350259,10/10/2023,Udara
+1607,Tuberculosis,Maluku,Male,27,354818,5/5/2019,Udara
+1608,Tuberculosis,Papua,Female,2,123484,12/20/2022,Udara
+1609,Tuberculosis,Sumatera Barat,Female,2,128800,6/27/2021,Udara
+1610,Tuberculosis,Jambi,Male,2,137392,8/23/2024,Udara
+1611,Tuberculosis,Lampung,Female,1,131572,12/12/2022,Udara
+1612,Tuberculosis,Bangka Belitung,Male,5,138441,12/2/2022,Udara
+1613,Tuberculosis,Jawa Tengah,Female,2,133302,6/21/2019,Udara
+1614,Tuberculosis,Bali,Male,36,346513,8/11/2019,Udara
+1615,Tuberculosis,Nusa Tenggara Timur,Male,31,345665,12/29/2021,Udara
+1616,Tuberculosis,Kalimantan Barat,Male,34,344854,6/9/2020,Udara
+1617,Tuberculosis,Kalimantan Selatan,Male,36,343820,12/16/2020,Udara
+1618,Tuberculosis,Sulawesi Tengah,Female,23,361593,8/10/2021,Udara
+1619,Tuberculosis,Sulawesi Selatan,Male,41,349781,8/2/2022,Udara
+1620,Tuberculosis,Sulawesi Tenggara,Female,29,363936,11/30/2022,Udara
+1621,Tuberculosis,Gorontalo,Male,37,352328,8/4/2024,Udara
+1622,Tuberculosis,Sulawesi Barat,Female,30,365830,4/19/2024,Udara
+1623,Tuberculosis,Maluku,Male,29,353837,9/26/2024,Udara
+1624,Tuberculosis,Maluku Utara,Female,29,370075,7/6/2022,Udara
+1625,Tuberculosis,Papua,Male,30,357931,9/20/2022,Udara
+1626,Tuberculosis,Papua Barat,Female,22,374158,4/10/2021,Udara
+1627,Tuberculosis,Aceh,Female,21,377244,12/16/2021,Udara
+1628,Tuberculosis,Riau,Male,47,368089,12/8/2022,Udara
+1629,Tuberculosis,Kepulauan Riau,Female,15,201546,5/1/2024,Udara
+1630,Tuberculosis,Sumatera Selatan,Female,6,202843,9/9/2020,Udara
+1631,Tuberculosis,Lampung,Female,17,204367,12/9/2023,Udara
+1632,Tuberculosis,Bangka Belitung,Male,20,205145,10/3/2021,Udara
+1633,Tuberculosis,DKI Jakarta,Female,5,205110,12/25/2019,Udara
+1634,Tuberculosis,Jawa Barat,Male,13,206080,12/28/2020,Udara
+1635,Tuberculosis,Jawa Tengah,Female,8,205279,11/22/2020,Udara
+1636,Tuberculosis,Jawa Timur,Male,18,206404,5/6/2023,Udara
+1637,Tuberculosis,Nusa Tenggara Barat,Female,5,210296,12/30/2018,Udara
+1638,Tuberculosis,Nusa Tenggara Timur,Male,17,212127,12/16/2021,Udara
+1639,Tuberculosis,Kalimantan Tengah,Male,13,213871,12/29/2020,Udara
+1640,Tuberculosis,Kalimantan Timur,Male,12,214265,12/16/2022,Udara
+1641,Tuberculosis,Sulawesi Tenggara,Female,95,836732,8/7/2024,Udara
+1642,Tuberculosis,Sulawesi Barat,Female,113,837293,6/12/2021,Udara
+1643,Tuberculosis,Maluku,Male,145,855869,5/15/2020,Udara
+1644,Tuberculosis,Maluku Utara,Female,116,838473,5/25/2018,Udara
+1645,Tuberculosis,Kepulauan Riau,Male,141,874064,11/25/2019,Udara
+1646,Tuberculosis,Lampung,Male,108,892288,5/4/2023,Udara
+1647,Tuberculosis,Bangka Belitung,Female,90,890176,11/6/2019,Udara
+1648,Tuberculosis,Jawa Tengah,Male,105,906438,12/10/2022,Udara
+1649,Tuberculosis,DI Yogyakarta,Female,81,924969,12/19/2024,Udara
+1650,Tuberculosis,Banten,Female,78,936291,12/21/2023,Udara
+1651,Tuberculosis,Bali,Male,84,938235,10/21/2019,Udara
+1652,Tuberculosis,Nusa Tenggara Barat,Female,2,128410,10/13/2024,Udara
+1653,Tuberculosis,Kalimantan Barat,Female,5,128115,12/31/2020,Udara
+1654,Tuberculosis,Kalimantan Tengah,Male,1,127475,10/31/2021,Udara
+1655,Tuberculosis,Kalimantan Selatan,Male,7,127255,12/11/2022,Udara
+1656,Tuberculosis,Kalimantan Utara,Male,4,127132,12/16/2020,Udara
+1657,Tuberculosis,Sulawesi Selatan,Female,2,129047,6/11/2020,Udara
+1658,Tuberculosis,Sulawesi Tenggara,Male,8,128554,10/19/2018,Udara
+1659,Tuberculosis,Gorontalo,Female,4,130193,12/10/2022,Udara
+1660,Tuberculosis,Sulawesi Barat,Male,6,129680,10/30/2018,Udara
+1661,Tuberculosis,Maluku Utara,Male,3,130735,10/9/2021,Udara
+1662,Tuberculosis,Papua,Female,2,131911,9/20/2024,Udara
+1663,Tuberculosis,Aceh,Female,5,132997,7/5/2020,Udara
+1664,Tuberculosis,Sumatera Barat,Female,1,135411,9/16/2018,Udara
+1665,Tuberculosis,Jambi,Male,4,135901,12/15/2023,Udara
+1666,Tuberculosis,Sumatera Selatan,Female,1,85413,6/28/2023,Udara
+1667,Tuberculosis,Bengkulu,Male,3,81621,12/26/2023,Udara
+1668,Tuberculosis,Jawa Barat,Male,5,85412,12/16/2019,Udara
+1669,Tuberculosis,Jawa Timur,Male,5,85947,7/27/2020,Udara
+1670,Tuberculosis,Bali,Female,1,89964,5/11/2019,Udara
+1671,Tuberculosis,Sulawesi Tengah,Male,2,87901,7/5/2021,Udara
+1672,Tuberculosis,Sulawesi Tengah,Male,1,22620,12/31/2022,Udara
+1673,Tuberculosis,Sulawesi Selatan,Female,15,200691,7/11/2018,Udara
+1674,Tuberculosis,Sulawesi Tenggara,Male,20,202277,12/16/2022,Udara
+1675,Tuberculosis,Sulawesi Barat,Female,12,203877,8/14/2023,Udara
+1676,Tuberculosis,Maluku,Male,17,205052,12/5/2020,Udara
+1677,Tuberculosis,Maluku Utara,Female,23,205205,12/20/2019,Udara
+1678,Tuberculosis,Sumatera Barat,Male,17,206527,10/6/2019,Udara
+1679,Tuberculosis,Kepulauan Riau,Male,19,206724,9/4/2019,Udara
+1680,Tuberculosis,Bengkulu,Male,12,206076,8/27/2018,Udara
+1681,Tuberculosis,Bangka Belitung,Male,17,206673,10/13/2023,Udara
+1682,Tuberculosis,DKI Jakarta,Male,11,209029,10/18/2024,Udara
+1683,Tuberculosis,Jawa Tengah,Male,8,210911,12/2/2020,Udara
+1684,Tuberculosis,Jawa Timur,Female,11,214456,12/24/2018,Udara
+1685,Tuberculosis,Nusa Tenggara Barat,Male,7,229080,9/19/2018,Udara
+1686,Tuberculosis,Nusa Tenggara Timur,Female,5,238891,4/14/2018,Udara
+1687,Tuberculosis,Kalimantan Tengah,Female,6,238649,12/12/2024,Udara
+1688,Tuberculosis,Kalimantan Timur,Female,6,238835,5/28/2024,Udara
+1689,Tuberculosis,Sulawesi Utara,Female,6,242159,4/25/2019,Udara
+1690,Tuberculosis,Sulawesi Tengah,Male,3,234491,5/4/2020,Udara
+1691,Tuberculosis,Sulawesi Tenggara,Male,5,236628,12/23/2021,Udara
+1692,Tuberculosis,Maluku,Female,6,247231,8/10/2024,Udara
+1693,Tuberculosis,Maluku Utara,Female,6,247993,5/10/2023,Udara
+1694,Tuberculosis,Papua,Male,7,240307,11/19/2018,Udara
+1695,Tuberculosis,Sumatera Utara,Male,7,244068,10/5/2021,Udara
+1696,Tuberculosis,Sumatera Barat,Female,6,235061,12/2/2019,Udara
+1697,Tuberculosis,Riau,Male,12,228067,4/7/2020,Udara
+1698,Tuberculosis,Kepulauan Riau,Female,8,240286,5/8/2018,Udara
+1699,Tuberculosis,Sumatera Selatan,Male,7,238088,12/10/2018,Udara
+1700,Tuberculosis,Lampung,Female,3,252209,12/29/2020,Udara
+1701,Tuberculosis,Jawa Barat,Female,8,257228,6/23/2022,Udara
+1702,Tuberculosis,Jawa Tengah,Male,8,251144,11/2/2019,Udara
+1703,Tuberculosis,DI Yogyakarta,Male,13,252205,4/15/2022,Udara
+1704,Tuberculosis,Bali,Female,10,260328,4/20/2018,Udara
+1705,Tuberculosis,Nusa Tenggara Barat,Male,6,254855,12/5/2018,Udara
+1706,Tuberculosis,Kalimantan Selatan,Female,6,267560,5/23/2020,Udara
+1707,Tuberculosis,Kalimantan Timur,Male,7,262767,10/29/2023,Udara
+1708,Tuberculosis,Sulawesi Tenggara,Male,2,44929,8/6/2023,Udara
+1709,Tuberculosis,Maluku Utara,Male,3,46366,9/22/2019,Udara
+1710,Tuberculosis,Sumatera Utara,Male,4,46972,7/11/2023,Udara
+1711,Tuberculosis,Sumatera Barat,Male,3,47962,12/10/2023,Udara
+1712,Tuberculosis,Riau,Male,2,48042,12/15/2023,Udara
+1713,Tuberculosis,Kepulauan Riau,Female,1,48529,12/10/2019,Udara
+1714,Tuberculosis,Bengkulu,Male,1,27925,6/23/2022,Udara
+1715,Tuberculosis,Bangka Belitung,Male,2,28956,5/16/2022,Udara
+1716,Tuberculosis,DKI Jakarta,Female,1,29977,7/18/2022,Udara
+1717,Tuberculosis,Banten,Male,2,30591,6/2/2024,Udara
+1718,Tuberculosis,Kalimantan Selatan,Female,1,31847,8/21/2020,Udara
+1719,Tuberculosis,Nusa Tenggara Timur,Female,5,186935,10/22/2018,Udara
+1720,Tuberculosis,Kalimantan Barat,Male,10,187217,12/4/2023,Udara
+1721,Tuberculosis,Kalimantan Selatan,Male,13,190673,10/9/2019,Udara
+1722,Tuberculosis,Kalimantan Timur,Female,7,195203,11/9/2019,Udara
+1723,Tuberculosis,Kalimantan Utara,Male,9,195167,5/13/2021,Udara
+1724,Tuberculosis,Gorontalo,Female,14,211625,11/28/2020,Udara
+1725,Tuberculosis,Sulawesi Barat,Male,11,211983,11/25/2020,Udara
+1726,Tuberculosis,Maluku,Female,12,215546,6/16/2022,Udara
+1727,Tuberculosis,Maluku Utara,Male,21,215925,6/6/2023,Udara
+1728,Tuberculosis,Papua,Female,9,218918,7/5/2021,Udara
+1729,Tuberculosis,Sumatera Barat,Male,14,224201,12/5/2024,Udara
+1730,Tuberculosis,Riau,Female,5,225721,12/16/2022,Udara
+1731,Tuberculosis,Kepulauan Riau,Male,7,226580,5/2/2022,Udara
+1732,Tuberculosis,Jambi,Female,6,227227,9/6/2021,Udara
+1733,Tuberculosis,Sumatera Selatan,Female,5,229092,8/11/2020,Udara
+1734,Tuberculosis,Bengkulu,Male,12,230084,11/27/2019,Udara
+1735,Tuberculosis,Bangka Belitung,Male,1,29191,12/26/2022,Udara
+1736,Tuberculosis,Jawa Tengah,Female,1,26593,5/21/2021,Udara
+1737,Tuberculosis,Kalimantan Selatan,Male,1,29273,10/24/2020,Udara
+1738,Tuberculosis,Papua Barat,Male,41,388368,12/17/2024,Udara
+1739,Tuberculosis,Aceh,Female,29,396323,6/2/2018,Udara
+1740,Tuberculosis,Sumatera Utara,Male,44,393044,12/28/2021,Udara
+1741,Tuberculosis,Sumatera Barat,Female,22,399212,8/6/2020,Udara
+1742,Tuberculosis,Jambi,Female,22,402512,11/6/2022,Udara
+1743,Tuberculosis,Bangka Belitung,Female,23,411541,5/16/2024,Udara
+1744,Tuberculosis,Jawa Barat,Female,15,415220,10/30/2021,Udara
+1745,Tuberculosis,Jawa Tengah,Male,18,409841,12/30/2018,Udara
+1746,Tuberculosis,Jawa Timur,Female,11,417598,4/20/2021,Udara
+1747,Tuberculosis,DI Yogyakarta,Female,10,419032,5/10/2023,Udara
+1748,Tuberculosis,Bali,Male,22,417301,12/13/2023,Udara
+1749,Tuberculosis,Kalimantan Selatan,Female,1,91782,12/22/2023,Udara
+1750,Tuberculosis,Sulawesi Tengah,Male,2,90606,6/18/2024,Udara
+1751,Tuberculosis,Sulawesi Selatan,Female,2,97772,5/12/2023,Udara
+1752,Tuberculosis,Sulawesi Tenggara,Male,1,93037,12/6/2023,Udara
+1753,Tuberculosis,Gorontalo,Female,4,99925,12/5/2018,Udara
+1754,Tuberculosis,Maluku Utara,Male,5,96299,5/22/2020,Udara
+1755,Tuberculosis,Papua,Female,4,103148,11/16/2018,Udara
+1756,Tuberculosis,Sumatera Barat,Male,3,100538,4/7/2023,Udara
+1757,Tuberculosis,Kepulauan Riau,Male,5,101047,11/2/2024,Udara
+1758,Tuberculosis,Bengkulu,Male,3,31596,4/6/2018,Udara
+1759,Tuberculosis,DI Yogyakarta,Female,3,34930,11/14/2019,Udara
+1760,Tuberculosis,Sulawesi Utara,Male,1,36688,12/27/2018,Udara
+1761,Tuberculosis,Sulawesi Tenggara,Female,2,36503,12/30/2021,Udara
